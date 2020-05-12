@@ -31,6 +31,9 @@ To transform your plain text CV into a beautiful looking HTML page and share it 
 
 1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
 2. Create a new branch called `gh-pages` (which will then be a copy of master)
+2bis. To merge branches once you have modified the master branch:
+On the local prompt: `git checkout gh-pages`
+`git rebase master`
 3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
 
 Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.

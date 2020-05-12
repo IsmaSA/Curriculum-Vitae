@@ -299,7 +299,7 @@ Co-supervised with Céline Bellard
 **Alice Fournier**, *Laboratory Ecology Systematics & Evolution, University Paris South XI*, Orsay, France
 
 `2016-2018`
-Katyana Vert Pré, *Biology of Aquatic Organism & Ecosystems, Muséum National d'Histoire Naturelle*, Dinard, France
+**Katyana Vert Pré**, *Biology of Aquatic Organism & Ecosystems, Muséum National d'Histoire Naturelle*, Dinard, France
 
 `2014–2017`
 **Nicolas Dubos**, *Centre d'Ecologie et des Sciences de la Conservation, Muséum National d'Histoire Naturelle*, Paris, France
