@@ -14,7 +14,7 @@ leroy.boris@@gmail.com
 <div id="webaddress">
   <a href="https://borisleroy.com"><i class="fas fa-home"></i>borisleroy.com</a> - 
   <a href="https://borea.mnhn.fr/fr/users/boris-leroy"><i class="fas fa-users"></i> https://borea.mnhn.fr/fr/users/boris-leroy (group)</a><br/>
-  <a href="https://github.com/farewe"><i class="fab fa-github"></i> davewhipp</a> - 
+  <a href="https://github.com/farewe"><i class="fab fa-github"></i>GitHub: Farewe</a> - 
   <a href="https://orcid.org/0000-0002-7686-4302"><i class="ai ai-orcid"></i> 0000-0002-7686-4302</a> - 
   <a href="https://www.researchgate.net/profile/Boris_Leroy"><i class="ai ai-researchgate"></i> Boris_Leroy</a> - 
   <a href="https://twitter.com/BLeroyEcology"><i class="fab fa-twitter"></i> @BLeroyEcology</a>
