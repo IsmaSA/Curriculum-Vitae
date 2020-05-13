@@ -16,14 +16,14 @@ Biology of Aquatic Organisms and Ecosystems<br/>
 leroy.boris@@gmail.com
 
 
-<div id="webaddress">
-  <i class="fas fa-home"></i>[borisleroy.com](https://borisleroy.com) - 
-  <i class="fas fa-users"></i>[lab page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
-  <i class="fab fa-github"></i>[GitHub: Farewe](https://github.com/farewe) - 
-  <i class="ai ai-orcid"></i>[ORCID: 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - 
-  <i class="ai ai-researchgate"></i>[RG: Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) - 
-  <i class="fab fa-twitter"></i>[\@BLeroyEcology](https://twitter.com/BLeroyEcology)
-</div>
+
+[borisleroy.com](https://borisleroy.com) - 
+[lab page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
+[GitHub: Farewe](https://github.com/farewe) - 
+[ORCID: 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - 
+[RG: Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) - 
+[\@BLeroyEcology](https://twitter.com/BLeroyEcology)
+
 
 
 *My current research focuses on global biogeographical patterns of aquatic biodiversity and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on methods such as species distribution modelling.*
