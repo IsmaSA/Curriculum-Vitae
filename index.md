@@ -1,6 +1,10 @@
 ---
+title: "Boris Leroy's CV"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
 layout: cv
-title: Boris Leroy's CV
 ---
 # Boris Leroy
 Maitre de Conférences, Muséum National d'Histoire Naturelle
@@ -11,17 +15,18 @@ Biology of Aquatic Organisms and Ecosystems<br/>
 
 leroy.boris@@gmail.com
 
+
 <div id="webaddress">
-  <a href="https://borisleroy.com"><i class="fas fa-home"></i>borisleroy.com</a> - 
-  <a href="https://borea.mnhn.fr/fr/users/boris-leroy"><i class="fas fa-users"></i> https://borea.mnhn.fr/fr/users/boris-leroy (group)</a><br/>
-  <a href="https://github.com/farewe"><i class="fab fa-github"></i>GitHub: Farewe</a> - 
-  <a href="https://orcid.org/0000-0002-7686-4302"><i class="ai ai-orcid"></i> 0000-0002-7686-4302</a> - 
-  <a href="https://www.researchgate.net/profile/Boris_Leroy"><i class="ai ai-researchgate"></i> Boris_Leroy</a> - 
-  <a href="https://twitter.com/BLeroyEcology"><i class="fab fa-twitter"></i> @BLeroyEcology</a>
+  <i class="fas fa-home"></i>[borisleroy.com](https://borisleroy.com) - 
+  <i class="fas fa-users"></i>[lab page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
+  <i class="fab fa-github"></i>[GitHub: Farewe](https://github.com/farewe) - 
+  <i class="ai ai-orcid"></i>[ORCID: 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - 
+  <i class="ai ai-researchgate"></i>[RG: Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) - 
+  <i class="fab fa-twitter"></i>[\@BLeroyEcology](https://twitter.com/BLeroyEcology)
 </div>
 
 
-*My current research focus on global biogeographical patterns of aquatic biodiversity and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on methods such as species distribution modelling.*
+*My current research focuses on global biogeographical patterns of aquatic biodiversity and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on methods such as species distribution modelling.*
 
 ## Education
 
@@ -107,7 +112,7 @@ Bellard C, Thuiller W, **Leroy B**, Genovesi P, Bakkenes M & Courchamp F. 2013. 
 
 **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 
-**Leroy B.** 2014-2019. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. <Current version : 1.5. http://borisleroy.com/virtualspecies
+**Leroy B.** 2014-2019. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
 
 **Leroy B.** 2012-2019. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
 
@@ -115,9 +120,14 @@ Bellard C, Thuiller W, **Leroy B**, Genovesi P, Bakkenes M & Courchamp F. 2013. 
 ## Expertise
 
 `2015-2018`
-**Lead Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*
+**Lead Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Europe and Central Asia Assessment
 
 ### Expertise reports
+
+`2019`
+
+Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
+
 `2018`
 **IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
 
@@ -155,16 +165,17 @@ TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling th
 
 ### Main courses
 
+`2018-present`
+*Master's degree, Muséum National d'Histoire Naturelle, Sorbonne Universités*, Paris, France.
+
+- \- **Biogeography and Macroecology**, with Maud Mouchet, master's degree course, 10 days.
+
 `2015-present`
 *Doctoral school, Muséum National d'Histoire Naturelle, Sorbonne Universités*, Paris, France.
 
 - \- **Species distribution models and climate change**, doctoral training school, 5 days.
 - \- **Biogeography**, with Maud Mouchet, doctoral training school, 5 days.
 
-`2018-present`
-*Master's degree, Muséum National d'Histoire Naturelle, Sorbonne Universités*, Paris, France.
-
-- \- **Biogeography and Macroecology**, with Maud Mouchet, master's degree course, 10 days.
 
 ### Short courses
 
