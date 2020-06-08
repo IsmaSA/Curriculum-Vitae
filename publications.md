@@ -11,6 +11,10 @@ layout: cv
 
 `2020`
 
+34\. Diagne C, **Leroy B**, Gozlan R, Vaissière AC, Assailly C, Nuninger L, Roiz D, Jourdain F, Jaric I, Courchamp F. 2020. INVACOST, a public database of the economic costs of biological invasions worldwide. *Nature Scientific Data* IN PRESS
+
+33\. Ben Rais Lasram F, Hattab T, Nogues Q, Beaugrand G, Dauvin, JC, Halouani, G, Le Loc'H F, Niquil N, **Leroy B**. 2020. A ready-to-use R script for projecting future patterns of marine species distributions at the local scale. *Ecological Informatics* IN PRESS
+
 32\. Louppe V, Leroy B, Herrel V, Veron G. 2019. The globally invasive small Indian mongoose Urva auropunctata is likely to spread with climate change. *Scientific Reports* 10:7461 [10.1038/s41598-020-64502-6](https://doi.org/10.1038/s41598-020-64502-6)
 
 31\. Schickele A, **Leroy B**, Beaugrand G, Goberville E, Hattab T, Francour P, Raybaud V. 2020. Modelling European small pelagic fish distribution: Methodological insights. *Ecological Modelling* 416:108902 [10.1016/j.ecolmodel.2019.108902](https://doi.org/10.1016/j.ecolmodel.2019.108902)
