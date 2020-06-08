@@ -113,7 +113,7 @@ layout: cv
 Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
 
 `2018`
-**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
+**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages. [10.5281/zenodo.3237428](https://doi.org/10.5281/zenodo.3237428)
 
 `2015`
 Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
