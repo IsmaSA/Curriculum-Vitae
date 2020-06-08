@@ -11,7 +11,7 @@ layout: cv
 
 `2020`
 
-32\. Louppe V, Leroy B, Herrel V, Veron G. 2019. The globally invasive small Indian mongoose Urva auropunctata is likely to spread with climate change. Scientific Reports 10:7461 [10.1038/s41598-020-64502-6](https://doi.org/10.1038/s41598-020-64502-6)
+32\. Louppe V, Leroy B, Herrel V, Veron G. 2019. The globally invasive small Indian mongoose Urva auropunctata is likely to spread with climate change. *Scientific Reports* 10:7461 [10.1038/s41598-020-64502-6](https://doi.org/10.1038/s41598-020-64502-6)
 
 31\. Schickele A, **Leroy B**, Beaugrand G, Goberville E, Hattab T, Francour P, Raybaud V. 2020. Modelling European small pelagic fish distribution: Methodological insights. *Ecological Modelling* 416:108902 [10.1016/j.ecolmodel.2019.108902](https://doi.org/10.1016/j.ecolmodel.2019.108902)
 
@@ -114,6 +114,8 @@ Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dau
 
 `2018`
 **IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages. [10.5281/zenodo.3237428](https://doi.org/10.5281/zenodo.3237428)
+
+
 
 `2015`
 Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
