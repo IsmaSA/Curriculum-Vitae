@@ -81,7 +81,7 @@ Meynard CN, Kaplan DM, **Leroy B**. Testing methods in species distribution mode
 
 `2017`
 
-Bellard C, Rysman J-F, **Leroy B**, Claud C & Mace GM. 2017. Islands and invaders: a global picture to determine vulnerable regions. *Nature Ecology & Evolution* 1:1862-1869 [s41559-017-0365-6](https://doi.org/10.1038/s41559-017-0365-6)
+Bellard C, Rysman J-F, **Leroy B**, Claud C & Mace GM. 2017. A global picture of biological invasion threat on islands. *Nature Ecology & Evolution* 1:1862-1869 [s41559-017-0365-6](https://doi.org/10.1038/s41559-017-0365-6)
 
 `2016`
 
