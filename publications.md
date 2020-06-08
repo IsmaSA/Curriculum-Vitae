@@ -15,7 +15,7 @@ layout: cv
 
 33\. Ben Rais Lasram F, Hattab T, Nogues Q, Beaugrand G, Dauvin, JC, Halouani, G, Le Loc'H F, Niquil N, **Leroy B**. 2020. A ready-to-use R script for projecting future patterns of marine species distributions at the local scale. *Ecological Informatics* IN PRESS
 
-32\. Louppe V, Leroy B, Herrel V, Veron G. 2019. The globally invasive small Indian mongoose Urva auropunctata is likely to spread with climate change. *Scientific Reports* 10:7461 [10.1038/s41598-020-64502-6](https://doi.org/10.1038/s41598-020-64502-6)
+32\. Louppe V, **Leroy B**, Herrel V, Veron G. 2020. The globally invasive small Indian mongoose Urva auropunctata is likely to spread with climate change. *Scientific Reports* 10:7461 [10.1038/s41598-020-64502-6](https://doi.org/10.1038/s41598-020-64502-6)
 
 31\. Schickele A, **Leroy B**, Beaugrand G, Goberville E, Hattab T, Francour P, Raybaud V. 2020. Modelling European small pelagic fish distribution: Methodological insights. *Ecological Modelling* 416:108902 [10.1016/j.ecolmodel.2019.108902](https://doi.org/10.1016/j.ecolmodel.2019.108902)
 
@@ -25,7 +25,7 @@ layout: cv
 
 29\. Louppe V, **Leroy B**, Herrel V, Veron G. 2019. Current and future climatic regions favourable for a globally introduced wild carnivore, the raccoon Procyon lotor. *Scientific Reports* 9:9174 [10.1038/s41598-019-45713-y](https://doi.org/10.1038/s41598-019-45713-y)
 
-28\. Meynard CN, Kaplan DM, **Leroy B**. Testing methods in species distribution modelling using virtual species: what have we learnt and what are we missing? *Ecography* *Special Issue: E4 award* 42:2021-2036 [10.1111/ecog.04385](https://doi.org/10.1111/ecog.04385)
+28\. Meynard CN, Kaplan DM, **Leroy B**. 2019. Testing methods in species distribution modelling using virtual species: what have we learnt and what are we missing? *Ecography* *Special Issue: E4 award* 42:2021-2036 [10.1111/ecog.04385](https://doi.org/10.1111/ecog.04385)
 
 27\. Meynard CN, Kaplan DM, **Leroy B**. 2019. Detecting outliers in species distribution data: some caveats and clarifications on a virtual species study. *Journal of Biogeography* 46:2141-2144 [10.1111/jbi.13626](https://doi.org/10.1111/jbi.13626)
 
