@@ -99,6 +99,11 @@ layout: cv
 
 1\. **Leroy B**, Morel L, Eybert MC, Ysnel F & Georges A. 2011. Rehabilitation project of a managed marsh: biodiversity assessment of different management measures. *Procedia Environmental Sciences* 9:96-103 [10.1016/j.proenv.2011.11.016](https://doi.org/10.1016/j.proenv.2011.11.016)
 
+### Book chapters
+
+`2020`
+
+Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, Noguès Q, Grangeré K, Dauvin JC, Riera F, Mazé C, Le Loc'h F, Villanueva MC, Hattab T, Bourdaud P, Champagnat J, Ben Rais Lasram F. 2020 Toward an ecosystem approach of Marine Renewable Energy: the case of the offshore wind farm of Courseulles-sur-mer in the Bay of Seine. In: Nguyen K., Guillou S., Gourbesville P., Thiébot J. (eds) *Estuaries and Coastal Zones in Times of Global Change.* Springer Water. Springer, Singapore [10.1007/978-981-15-2081-5_9](https://doi.org/10.1007/978-981-15-2081-5_9)
 
 ### Software
 
