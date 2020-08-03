@@ -11,9 +11,13 @@ layout: cv
 
 `2020`
 
+
+
+35\. Godet C, Robuchon M, **Leroy B**, Cotté C, Baudena A, Da Silva O, Fabri-Ruiz S, Lo Monaco C, Sergi S, Koubbi P. 2020. Matching zooplankton abundance and environment in the South Indian Ocean and Southern Ocean. *Deep Sea Research Part I: Oceanographic Research Papers* IN PRESS [10.1016/j.dsr.2020.103347](https://doi.org/10.1016/j.dsr.2020.103347)
+
 34\. Diagne C, **Leroy B**, Gozlan R, Vaissière AC, Assailly C, Nuninger L, Roiz D, Jourdain F, Jaric I, Courchamp F. 2020. INVACOST, a public database of the economic costs of biological invasions worldwide. *Nature Scientific Data* IN PRESS
 
-33\. Ben Rais Lasram F, Hattab T, Nogues Q, Beaugrand G, Dauvin, JC, Halouani, G, Le Loc'H F, Niquil N, **Leroy B**. 2020. A ready-to-use R script for projecting future patterns of marine species distributions at the local scale. *Ecological Informatics* IN PRESS
+33\. Ben Rais Lasram F, Hattab T, Nogues Q, Beaugrand G, Dauvin, JC, Halouani, G, Le Loc'H F, Niquil N, **Leroy B**. 2020. An open-source framework to model present and future marine species distributions at local scale.  *Ecological Informatics* 59:101130 [10.1016/j.ecoinf.2020.101130](https://doi.org/10.1016/j.ecoinf.2020.101130)
 
 32\. Louppe V, **Leroy B**, Herrel V, Veron G. 2020. The globally invasive small Indian mongoose Urva auropunctata is likely to spread with climate change. *Scientific Reports* 10:7461 [10.1038/s41598-020-64502-6](https://doi.org/10.1038/s41598-020-64502-6)
 
@@ -107,9 +111,9 @@ Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, N
 
 ### Software
 
-**Leroy B.** 2020. **INVACOST**, package for the R software. INVACOST Database With Methods To Analyse Invasion Costs. Current version: 0.1-3 (beta). Release is planned very soon!
+**Leroy B.** 2020. **INVACOST**, package for the R software. INVACOST Database With Methods To Analyse Invasion Costs. Current version: 0.3-2 (beta). Release is planned very soon!
   
-  **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
+**Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 
 **Leroy B.** 2014-2019. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
 
