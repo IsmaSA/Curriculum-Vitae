@@ -26,7 +26,7 @@ leroy.boris@@gmail.com
 
 
 
-*My current research focuses on global biogeographical patterns of aquatic biodiversity and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on methods such as species distribution modelling.*
+*My current research focuses on global biogeographical patterns of aquatic biodiversity and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on the developement of methods, such as species distribution modelling, and facilitating community access to these methods by publishing open-source software in R.*
 
 ## Education
 
@@ -211,6 +211,10 @@ TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling th
 
 ### Postdoctoral researchers
 
+`2020-2022`
+**Berta Ramiro-Sanchez**, *BOREA, Muséum Alexis Martin Samadi & Maud Mouchet. <br />
+Mapping the biogeography of Vulneralbe Marine Ecosystems in the Indian Ocean.
+
 `2018-2019`
 **Lissette Victorero**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
 Co-supervised with Sarah Samadi & Maud Mouchet. <br />
@@ -239,6 +243,14 @@ Co-supervised with Franck Courchamp & Céline Bellard <br />
 Biological invasions of freshwater fishes.
 
 ### Master students
+
+`2020`
+
+**Eléna Manfrini**, *Master 1, Université Paris-Saclay*, Orsay, France.<br />
+Co-supervised with Franck Courchamp <br />
+
+**Chloé Bahuaut**, *2nd year engineering school, Agrocampus Ouest*, Rennes, France <br />
+Co-supervised with Eric Goberville, Nathalie Niquil, Juliette Fauchot
 
 `2019`
 **Camille Bernery**, *Master 2, University of Rennes 1*, Rennes, France.<br/>
@@ -317,7 +329,7 @@ Co-supervised with Céline Bellard
 
 ## Professional service
 
-`2015-2020`
+`2015-present`
 **Evaluation committee**, *Master programs, Muséum National d'Histoire Naturelle, Sorbonne Universités*, Paris, France
 
 
@@ -358,4 +370,4 @@ scénarios des conséquences du réchauffement sur la faune](http://www.dailymot
 
 
 
-<br/>Last updated: May 2020<br/><br/>
+<br/>Last updated: November 2020<br/><br/>

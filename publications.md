@@ -11,16 +11,13 @@ layout: cv
 
 `Submitted`
 
-47\. Morel L, Jung V, Leroy B, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *In revision in Functional Ecology*
+46\. Morel L, Jung V, Leroy B, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *In revision in Functional Ecology*
 
-46\. Robuchon M, Pavoine S, Delli G, Faith DP, Mandrici A, Pellens R, Véron S, Dubois G, **Leroy B**. Revisiting species and areas of interest for conserving global mammalian phylogenetic diversity. *In revision in Nature Communications*
+45\. Robuchon M, Pavoine S, Delli G, Faith DP, Mandrici A, Pellens R, Véron S, Dubois G, **Leroy B**. Revisiting species and areas of interest for conserving global mammalian phylogenetic diversity. *In revision in Nature Communications*
 
-45\. Bourdaud P, Ben Rais Lasram F, Araignous E, Champagnat J, Grusd S, Halouani G, Hattab T, **Leroy B**, Noguès Q, Raoux A, Safi G, Niquil N. Impacts of climate change on the Bay of Seine ecosystem: approach by forcing of ecological niche model predictions on a spatio-temporal trophic model. *Submitted to Fisheries Oceanography.*
-
-44\. Nogues Q, Raoux A, Araignous E, Chaalali A, Hattab T, **Leroy B**, Ben Rais Lasram F, David V, Le Loc’h F, Dauvin JC, Niquil N. Cumulative Effects of Marine Renewable Energy and Climate Change on Ecosystem Properties: Sensitivity of Ecological Network Analysis. *In revision in Ecological Indicators.*
+44\. Bourdaud P, Ben Rais Lasram F, Araignous E, Champagnat J, Grusd S, Halouani G, Hattab T, **Leroy B**, Noguès Q, Raoux A, Safi G, Niquil N. Impacts of climate change on the Bay of Seine ecosystem: approach by forcing of ecological niche model predictions on a spatio-temporal trophic model. *Submitted to Fisheries Oceanography.*
 
 43\. Crystal-Ornelas R, Hudgins EJ, Cuthbert RN, Haubrock PJ, Fantle-Lepczyk J, Angulo E, Kramer AM, Ballesteros-Mejia L, **Leroy B**, Leung B, López-López E, Diagne C, Courchamp C. Economic costs of biological invasions within North America. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
-
 
 42\. Bradshaw CJA, Haubrock PJ, Cuthbert RN, Diagne C, **Leroy B**, Andrews L, Page B, Hoskins AJ, Cassey P, CourchampF. Comprehensive assessment of the economic costs of invasive alien species in Australia. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
 
@@ -37,7 +34,9 @@ layout: cv
 
 `2020`
 
-36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* IN PRESS
+37\. Nogues Q, Raoux A, Araignous E, Chaalali A, Hattab T, **Leroy B**, Ben Rais Lasram F, David V, Le Loc’h F, Dauvin JC, Niquil N. Cumulative Effects of Marine Renewable Energy and Climate Change on Ecosystem Properties: Sensitivity of Ecological Network Analysis. *Ecological Indicators* IN PRESS [10.1016/j.ecolind.2020.107128](https://doi.org/10.1016/j.ecolind.2020.107128)
+
+36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* IN PRESS [10.1111/faf.12515](https://doi.org/10.1111/faf.12515)
 
 35\. Godet C, Robuchon M, **Leroy B**, Cotté C, Baudena A, Da Silva O, Fabri-Ruiz S, Lo Monaco C, Sergi S, Koubbi P. 2020. Matching zooplankton abundance and environment in the South Indian Ocean and Southern Ocean. *Deep Sea Research Part I: Oceanographic Research Papers* 163, 103347 [10.1016/j.dsr.2020.103347](https://doi.org/10.1016/j.dsr.2020.103347)
 
