@@ -212,7 +212,8 @@ TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling th
 ### Postdoctoral researchers
 
 `2020-2022`
-**Berta Ramiro-Sanchez**, *BOREA, Muséum Alexis Martin Samadi & Maud Mouchet. <br />
+**Berta Ramiro-Sanchez**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
+Co-supervised with Alexis Martin.
 Mapping the biogeography of Vulneralbe Marine Ecosystems in the Indian Ocean.
 
 `2018-2019`
