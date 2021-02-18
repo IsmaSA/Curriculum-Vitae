@@ -11,32 +11,37 @@ layout: cv
 
 `Submitted`
 
+48\. Leroy B, Kramer AV, Vaissière AC, Courchamp F, Diagne C. Analysing global economic costs of invasive alien species with the invacost R package. *Submitted to Global Ecology and Biogeography* [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432 ) 
+
 47\. Morel L, Jung V, Leroy B, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *In revision in Functional Ecology*
 
 46\. Robuchon M, Pavoine S, Delli G, Faith DP, Mandrici A, Pellens R, Véron S, Dubois G, **Leroy B**. Revisiting species and areas of interest for conserving global mammalian phylogenetic diversity. *In revision in Nature Communications*
 
-45\. Bourdaud P, Ben Rais Lasram F, Araignous E, Champagnat J, Grusd S, Halouani G, Hattab T, **Leroy B**, Noguès Q, Raoux A, Safi G, Niquil N. Impacts of climate change on the Bay of Seine ecosystem: approach by forcing of ecological niche model predictions on a spatio-temporal trophic model. *Submitted to Fisheries Oceanography.*
-
-44\. Crystal-Ornelas R, Hudgins EJ, Cuthbert RN, Haubrock PJ, Fantle-Lepczyk J, Angulo E, Kramer AM, Ballesteros-Mejia L, **Leroy B**, Leung B, López-López E, Diagne C, Courchamp C. Economic costs of biological invasions within North America. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
-
-43\. Bradshaw CJA, Haubrock PJ, Cuthbert RN, Diagne C, **Leroy B**, Andrews L, Page B, Hoskins AJ, Cassey P, CourchampF. Comprehensive assessment of the economic costs of invasive alien species in Australia. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
-
-42\. Diagne C, Turbelin A, Moodley D, Novoa A, **Leroy B**, Angulo A, Adamjy T, Dia CAKM, Taheri A, Tambo J, Dobigny G and Courchamp F. The economic costs of biological invasions in Africa: a growing but neglected threat? *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
-
-41\. Renault D, **Leroy B**, Manfrini E, Diagne C, Ballesteros-Mejia L, Angulo E, Courchamp F. Biological invasions in France: Alarming costs and even more alarming knowledge gaps. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
-
-40\. Kourantidou M, Cuthbert RN, Haubrock PJ, Novoa A, Taylor NG, **Leroy B**, Capinha C, Renault D, Angulo E, Diagne C, Courchamp F. Economic costs of invasive alien species in the Mediterranean basin. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
-
-39\. Haubrock PJ, Turbelin AJ, Cuthbert RN, Novoa A, Angulo E, Ballesteros-Mejia L, Bodey TW,  Capinha C, Diagne C, Essl F, Golivets M, Kirichenko N, Kourantidou M, **Leroy B**, Renault D, Taylor NG, Verbrugge L, Courchamp F. Economic costs of invasive alien species across Europe. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
-
-38\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. Increasing global economic costs of biological invasions. *In revision in Nature.*
+45\. Bradshaw CJA, Haubrock PJ, Cuthbert RN, Diagne C, **Leroy B**, Andrews L, Page B, Hoskins AJ, Cassey P, CourchampF. Comprehensive assessment of the economic costs of invasive alien species in Australia. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
 
 
-`2020`
+`2021`
+
+44\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. High and rising economic costs of biological invasions worldwide IN PRESS *Nature*
+
+43\. Bourdaud P, Ben Rais Lasram F, Araignous E, Champagnat J, Grusd S, Halouani G, Hattab T, **Leroy B**, Noguès Q, Raoux A, Safi G, Niquil N. Impacts of climate change on the Bay of Seine ecosystem: forcing a spatio-temporal trophic model with predictions from an ecological niche model. IN PRESS *Fisheries Oceanography*
+
+42\. Crystal-Ornelas R, Hudgins EJ, Cuthbert RN, Haubrock PJ, Fantle-Lepczyk J, Angulo E, Kramer AM, Ballesteros-Mejia L, **Leroy B**, Leung B, López-López E, Diagne C, Courchamp C. Economic costs of biological invasions within North America. *Accepted in the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
+
+41\. Diagne C, Turbelin A, Moodley D, Novoa A, **Leroy B**, Angulo A, Adamjy T, Dia CAKM, Taheri A, Tambo J, Dobigny G and Courchamp F. The economic costs of biological invasions in Africa: a growing but neglected threat? *Accepted in the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
+
+
+40\. Renault D, **Leroy B**, Manfrini E, Diagne C, Ballesteros-Mejia L, Angulo E, Courchamp F. Biological invasions in France: Alarming costs and even more alarming knowledge gaps. *Accepted in the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
+
+39\. Kourantidou M, Cuthbert RN, Haubrock PJ, Novoa A, Taylor NG, **Leroy B**, Capinha C, Renault D, Angulo E, Diagne C, Courchamp F. Economic costs of invasive alien species in the Mediterranean basin. *Accepted in the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
+
+38\. Haubrock PJ, Turbelin AJ, Cuthbert RN, Novoa A, Angulo E, Ballesteros-Mejia L, Bodey TW,  Capinha C, Diagne C, Essl F, Golivets M, Kirichenko N, Kourantidou M, **Leroy B**, Renault D, Taylor NG, Verbrugge L, Courchamp F. Economic costs of invasive alien species across Europe. *Accepted in the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
 
 37\. Nogues Q, Raoux A, Araignous E, Chaalali A, Hattab T, **Leroy B**, Ben Rais Lasram F, David V, Le Loc’h F, Dauvin JC, Niquil N. Cumulative Effects of Marine Renewable Energy and Climate Change on Ecosystem Properties: Sensitivity of Ecological Network Analysis. *Ecological Indicators* IN PRESS [10.1016/j.ecolind.2020.107128](https://doi.org/10.1016/j.ecolind.2020.107128)
 
-36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* IN PRESS [10.1111/faf.12515](https://doi.org/10.1111/faf.12515)
+36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515)
+
+`2020`
 
 35\. Godet C, Robuchon M, **Leroy B**, Cotté C, Baudena A, Da Silva O, Fabri-Ruiz S, Lo Monaco C, Sergi S, Koubbi P. 2020. Matching zooplankton abundance and environment in the South Indian Ocean and Southern Ocean. *Deep Sea Research Part I: Oceanographic Research Papers* 163, 103347 [10.1016/j.dsr.2020.103347](https://doi.org/10.1016/j.dsr.2020.103347)
 
@@ -136,7 +141,7 @@ Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, N
 
 ### Software
 
-**Leroy B.** 2020. **INVACOST**, package for the R software. INVACOST Database With Methods To Analyse Invasion Costs. Current version: 0.3-2 (beta). Release is planned very soon!
+**Leroy B.** 2020. **invacost**, package for the R software. INVACOST Database With Methods To Analyse Invasion Costs.Published on the Comprehensive R Archive Network.  Current version: 1.0. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
   
 **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 

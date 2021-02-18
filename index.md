@@ -64,6 +64,11 @@ leroy.boris@@gmail.com
 
 ### Journal articles (selected publications)
 
+44 published peer-reviewed articles.
+
+`2021`
+
+Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. High and rising economic costs of biological invasions worldwide IN PRESS *Nature*
 
 `2020`
 
@@ -108,7 +113,7 @@ Bellard C, Thuiller W, **Leroy B**, Genovesi P, Bakkenes M & Courchamp F. 2013. 
 
 ### Software
 
-**Leroy B.** 2020. **INVACOST**, package for the R software. INVACOST Database With Methods To Analyse Invasion Costs. Current version: 0.1-3 (beta). Release is planned very soon!
+**Leroy B.** 2020. **invacost**, package for the R software. IAnalyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.0. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
 
 **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 
@@ -245,10 +250,12 @@ Biological invasions of freshwater fishes.
 
 ### Master students
 
-`2020`
+`2021`
 
 **Eléna Manfrini**, *Master 1, Université Paris-Saclay*, Orsay, France.<br />
 Co-supervised with Franck Courchamp <br />
+
+`2020`
 
 **Chloé Bahuaut**, *2nd year engineering school, Agrocampus Ouest*, Rennes, France <br />
 Co-supervised with Eric Goberville, Nathalie Niquil, Juliette Fauchot
@@ -313,7 +320,7 @@ Co-supervised with Céline Bellard
 
 **Mélissa Hanafi-Portier**, *Laboratoire Environnement Profond, IFREMER*, Brest, France
 
-`2017-present`
+`2017-2020`
 **Céline Jézéquel**, *Evolution & Diversité Biologique, Institute for Sustainable Development*, Toulouse, France
 
 `2018-2020`
