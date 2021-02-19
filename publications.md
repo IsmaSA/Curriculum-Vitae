@@ -11,9 +11,9 @@ layout: cv
 
 `Submitted`
 
-48\. Leroy B, Kramer AV, Vaissière AC, Courchamp F, Diagne C. Analysing global economic costs of invasive alien species with the invacost R package. *Submitted to Global Ecology and Biogeography* [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432 ) 
+48\. **Leroy B**, Kramer AV, Vaissière AC, Courchamp F, Diagne C. Analysing global economic costs of invasive alien species with the invacost R package. *Submitted to Global Ecology and Biogeography* [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432 ) 
 
-47\. Morel L, Jung V, Leroy B, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *In revision in Functional Ecology*
+47\. Morel L, Jung V, **Leroy B**, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *In revision in Functional Ecology*
 
 46\. Robuchon M, Pavoine S, Delli G, Faith DP, Mandrici A, Pellens R, Véron S, Dubois G, **Leroy B**. Revisiting species and areas of interest for conserving global mammalian phylogenetic diversity. *In revision in Nature Communications*
 
