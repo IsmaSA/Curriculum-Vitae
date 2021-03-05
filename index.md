@@ -26,7 +26,7 @@ leroy.boris@@gmail.com
 
 
 
-*My current research focuses on global biogeographical patterns of aquatic biodiversity and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on the developement of methods, such as species distribution modelling, and facilitating community access to these methods by publishing open-source software in R.*
+*My current research focuses on global biogeographical patterns of aquatic biodiversity and their underlying direct and indirect drivers. I investigate with various macroecological and biogeographical methods how global changes alter the natural distribution of biodiversity. My main research topics are: biogeography, macroecology, invasion biology; with a special emphasis on the development of methods, such as species distribution modelling, and facilitating community access to these methods by publishing open-source software in R.*
 
 ## Education
 
@@ -62,9 +62,11 @@ leroy.boris@@gmail.com
 ### Journal articles, in preparation
 -->
 
-### Journal articles (selected publications)
+### Journal articles
 
 44 published peer-reviewed articles.
+
+*Selected publications:*
 
 `2021`
 
