@@ -17,12 +17,14 @@ layout: cv
 
 47\. Morel L, Jung V, **Leroy B**, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *In revision in Functional Ecology*
 
-46\. Robuchon M, Pavoine S, Delli G, Faith DP, Mandrici A, Pellens R, Véron S, Dubois G, **Leroy B**. Revisiting species and areas of interest for conserving global mammalian phylogenetic diversity. *In revision in Nature Communications*
-
-45\. Bradshaw CJA, Haubrock PJ, Cuthbert RN, Diagne C, **Leroy B**, Andrews L, Page B, Hoskins AJ, Cassey P, CourchampF. Comprehensive assessment of the economic costs of invasive alien species in Australia. *Submitted to the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
 
 
 `2021`
+
+46\. Robuchon M, Pavoine S, Delli G, Faith DP, Mandrici A, Pellens R, Véron S, Dubois G, **Leroy B**. Revisiting species and areas of interest for conserving global mammalian phylogenetic diversity. IN PRESS *Nature Communications*
+
+45\. Bradshaw CJA, Haubrock PJ, Cuthbert RN, Diagne C, **Leroy B**, Andrews L, Page B, Hoskins AJ, Cassey P, CourchampF. Comprehensive assessment of the economic costs of invasive alien species in Australia. IN PRESS *Accepted in the NeoBiota special issue on the economic impacts of Invasive Alien Species.*
+
 
 44\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. High and rising economic costs of biological invasions worldwide IN PRESS *Nature*
 
