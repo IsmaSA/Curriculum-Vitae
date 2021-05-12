@@ -1,12 +1,15 @@
 ---
 title: "Boris Leroy's CV"
 output:
-  github_document: default
-  html_document:
-    df_print: paged
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
   pdf_document: default
 layout: cv
 ---
+
+
+
 # Boris Leroy
 Maitre de Conférences, Muséum National d'Histoire Naturelle
 
@@ -396,5 +399,7 @@ scénarios des conséquences du réchauffement sur la faune](http://www.dailymot
 
 
 
-
-<br/>Last updated: November 2020<br/><br/>
+```{r echo=FALSE, results="hide", message="hide", warning=FALSE} 
+Sys.setlocale("LC_ALL","English")
+```
+<br/>Last updated: `r zoo::Sys.yearmon()`<br/><br/>

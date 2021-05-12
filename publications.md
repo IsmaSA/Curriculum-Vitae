@@ -170,3 +170,16 @@ Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mare
 
 `2014`
 Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V. & Pétillon J. 2014. *Les araignées de la Réserve Naturelle Nationale des Nouragues : Facteurs de variations des assemblages et premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues, Guyane Française, 23p
+
+
+### Dissemination of research
+
+`2021`
+
+Bradshaw CJA, **Leroy B**, Bernery C, Diagne C, Courchamp F [Attack of the alien invaders: pest plants and animals leave a frightening $1.7 trillion bill]( https://theconversation.com/attack-of-the-alien-invaders-pest-plants-and-animals-leave-a-frightening-1-7-trillion-bill-158628) *The Conversation Australie*, 18 avril 2021.
+
+Bernery C, **Leroy B**, Diagne C, Courchamp F. [Las invasiones biológicas producen daños y pérdidas multimillonarias: es hora de actuar]( https://theconversation.com/las-invasiones-biologicas-producen-danos-y-perdidas-multimillonarias-es-hora-de-actuar-158361) *The Conversation Espagne*, 14 avril 2021.
+
+Bernery C, **Leroy B**, Diagne C, Courchamp F. [1 288 milliards de dollars : chiffrer les dégâts causés par les invasions biologiques pour enfin agir]( https://theconversation.com/1-288-milliards-de-dollars-chiffrer-les-degats-causes-par-les-invasions-biologiques-pour-enfin-agir-158204) *The Conversation France*, 31 mars 2021.
+
+ 
