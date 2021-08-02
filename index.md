@@ -410,17 +410,16 @@ Conservation, Muséum National d’Histoire Naturelle*, Paris, France
 `2015-present` **Evaluation committee**, *Master programs, Muséum
 National d’Histoire Naturelle, Sorbonne Universités*, Paris, France
 
-`2010-present` **Referee**.
-
-**Journals**: *African Journal of Ecology*, *Arachnologische
-Mitteilungen*, *Biological Invasions*, *Diversity & Distributions*,
-*Ecography*, *Ecological modelling*, *Ecology & Evolution*, *Ecology
-Letters*, *Environmental Modelling & Software*, *Freshwater Science*,
-*Frontiers in Ecology and the Environment*, *Global Ecology &
-Biogeography*, *Global Ecology & Conservation*, *International Journal
-of Geographic Information Science*, *Journal of Applied Ecology*,
-*Journal of Biogeography*, *Journal of Insect Conservation*, *PeerJ*,
-*PLoS one*, *Science China Life Sciences*, *Systematics & Biodiversity*.
+`2010-present` **Referee**. *Journals*: *African Journal of Ecology*,
+*Arachnologische Mitteilungen*, *Biological Invasions*, *Diversity &
+Distributions*, *Ecography*, *Ecological modelling*, *Ecology &
+Evolution*, *Ecology Letters*, *Environmental Modelling & Software*,
+*Freshwater Science*, *Frontiers in Ecology and the Environment*,
+*Global Ecology & Biogeography*, *Global Ecology & Conservation*,
+*International Journal of Geographic Information Science*, *Journal of
+Applied Ecology*, *Journal of Biogeography*, *Journal of Insect
+Conservation*, *PeerJ*, *PLoS one*, *Science China Life Sciences*,
+*Systematics & Biodiversity*.
 
 **Research project proposals**: Agence Nationale pour la Recherche.
 

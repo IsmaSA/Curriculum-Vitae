@@ -106,7 +106,8 @@ Bellard C, Rysman J-F, **Leroy B**, Claud C & Mace GM. 2017. A global picture of
 
 `2014`
 
-Gallon R, Robuchon M, **Leroy B**, Le Gall L, Valero M, Feunteun E. 2014. 20 years of observed and predicted changes in subtidal red seaweed assemblages along a biogeographical transition zone: inferring potential causes from environmental data. *Journal of Biogeography* 41:2293-2306 [10.1111/jbi.12380](https://doi.org/10.1111/jbi.12380)
+Gallon R, Robuchon M, **Leroy B**, Le Gall L, Valero M, Feunteun E. 2014. 20 years of observed and predicted changes in subtidal red seaweed assemblages along a biogeographical transition zone: inferring potential causes from environmental data. *Journal of Biogeography* 41:2293-2306  [10.1111/jbi.12380](https://doi.org/10.1111/jbi.12380)
+
 
 
 **Leroy B**, Bellard C, Dubos N, Colliot A, Vasseur M, Courtial C, Bakkenes M, Canard A & Ysnel F. 2014. Forecasted climate and land use changes, and protected areas: the contrasting case of spiders. *Diversity and Distributions* 20:686-697 [10.1111/ddi.12191](https://doi.org/10.1111/ddi.12191)
@@ -361,9 +362,7 @@ Co-supervised with Céline Bellard
 
 
 `2010-present`
-**Referee**.
-
-**Journals**: *African Journal of Ecology*, *Arachnologische Mitteilungen*, *Biological Invasions*, *Diversity & Distributions*, *Ecography*, *Ecological modelling*, *Ecology & Evolution*, *Ecology Letters*, *Environmental Modelling & Software*, *Freshwater Science*, *Frontiers in Ecology and the Environment*, *Global Ecology & Biogeography*, *Global Ecology & Conservation*, *International Journal of Geographic Information Science*, *Journal of Applied Ecology*, *Journal of Biogeography*, *Journal of Insect Conservation*, *PeerJ*, *PLoS one*, *Science China Life Sciences*, *Systematics & Biodiversity*.
+**Referee**. *Journals*: *African Journal of Ecology*, *Arachnologische Mitteilungen*, *Biological Invasions*, *Diversity & Distributions*, *Ecography*, *Ecological modelling*, *Ecology & Evolution*, *Ecology Letters*, *Environmental Modelling & Software*, *Freshwater Science*, *Frontiers in Ecology and the Environment*, *Global Ecology & Biogeography*, *Global Ecology & Conservation*, *International Journal of Geographic Information Science*, *Journal of Applied Ecology*, *Journal of Biogeography*, *Journal of Insect Conservation*, *PeerJ*, *PLoS one*, *Science China Life Sciences*, *Systematics & Biodiversity*.
 
 **Research project proposals**: Agence Nationale pour la Recherche.
 
