@@ -142,7 +142,7 @@ Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, N
 
 ### Software
 
-**Leroy B.** 2020. **invacost**, package for the R software. INVACOST Database With Methods To Analyse Invasion Costs.Published on the Comprehensive R Archive Network.  Current version: 1.0. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2021. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
   
 **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 

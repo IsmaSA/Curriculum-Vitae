@@ -121,12 +121,6 @@ an R package to generate virtual species distributions. *Ecography*
 
 `2014`
 
-Gallon R, Robuchon M, **Leroy B**, Le Gall L, Valero M, Feunteun E.
-2014. 20 years of observed and predicted changes in subtidal red seaweed
-assemblages along a biogeographical transition zone: inferring potential
-causes from environmental data. *Journal of Biogeography* 41:2293-2306
-[10.1111/jbi.12380](https://doi.org/10.1111/jbi.12380)
-
 **Leroy B**, Bellard C, Dubos N, Colliot A, Vasseur M, Courtial C,
 Bakkenes M, Canard A & Ysnel F. 2014. Forecasted climate and land use
 changes, and protected areas: the contrasting case of spiders.
@@ -159,11 +153,12 @@ multiple rarity cut-offs. *Insect Conservation and Diversity* 5:159-168
 
 ### Software
 
-**Leroy B.** 2020. **invacost**, package for the R software. IAnalyse
-Biological Invasion Costs with the ‘InvaCost’ Database. Published on the
-Comprehensive R Archive Network. Current version: 1.0.
-<https://cran.r-project.org/package=invacost> Open-source code
-repository available here: <https://github.com/Farewe/invacost>
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2021. **invacost**,
+package for the R software. Analyse Biological Invasion Costs with the
+‘InvaCost’ Database. Published on the Comprehensive R Archive Network.
+Current version: 1.1-1. <https://cran.r-project.org/package=invacost>
+Open-source code repository available here:
+<https://github.com/Farewe/invacost>
 
 **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software.
 Biogeographical networks in R. Current version : 0.1.2.
@@ -218,6 +213,10 @@ Guyane Française, 23p
 ## Grants and funding
 
 ### Research funding
+
+`2021` **Expertise project**, *Planification de l’extension de la
+réserve Naturelle de Saint Paul et Amsterdam*, Terres Australes et
+Antarctiques Françaises, \~20k€.
 
 `2020-2022` **2-year research project**, *Southern Indian Ocean
 Fisheries Agreement*, Indian Ocean, 96 000€. <br/> Co-PI with Alexis
