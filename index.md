@@ -8,21 +8,20 @@ output:
 layout: cv
 ---
 
-Boris Leroy
-===========
+# Boris Leroy
 
 Maitre de Conférences, Muséum National d’Histoire Naturelle
 
 Biology of Aquatic Organisms and Ecosystems<br/> 43 rue Cuvier, CP
 26<br/> 75005 Paris, France<br/>
 
-<a href="mailto:leroy.boris@@gmail.com" class="email">leroy.boris@@gmail.com</a>
+<leroy.boris@@gmail.com>
 
 [borisleroy.com](https://borisleroy.com) - [lab
 page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
 [GitHub: Farewe](https://github.com/farewe) - [ORCID:
 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - [RG:
-Boris\_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
+Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
 [@BLeroyEcology](https://twitter.com/BLeroyEcology)
 
 *My current research focuses on global biogeographical patterns of
@@ -34,8 +33,7 @@ a special emphasis on the development of methods, such as species
 distribution modelling, and facilitating community access to these
 methods by publishing open-source software in R.*
 
-Education
----------
+## Education
 
 `2012` **Ph.D., Life Sciences**, *Muséum national d’histoire
 naturelle/Université de Rennes 1*, Rennes, France
@@ -49,8 +47,7 @@ Rennes, France
 `2004` **2-year degree (DEUG), Chemistry & Physics**, *University of
 “Littoral Côte d’Opale”*, Calais, France
 
-Experience
-----------
+## Experience
 
 `2014-present` **Maître de conférences (lecturer)**, *Lab. Biology of
 Aquatic Organisms & Ecosystems, Muséum national d’Histoire Naturelle*,
@@ -62,8 +59,7 @@ Evolution, University of Paris South XI*, Orsay, France.
 `2013` **Post-doctoral fellow**, *Lab. Biodiversity & Territory
 Management, University of Rennes 1*, Rennes, France.
 
-Publications
-------------
+## Publications
 
 *Full Publication list available [in Google
 Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).*
@@ -74,7 +70,7 @@ Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).*
 
 ### Journal articles
 
-46 published peer-reviewed articles. h-index: 21; i10-index: 27
+46 published peer-reviewed articles. h-index: 22; i10-index: 31
 
 *Selected publications:*
 
@@ -166,28 +162,24 @@ multiple rarity cut-offs. *Insect Conservation and Diversity* 5:159-168
 **Leroy B.** 2020. **invacost**, package for the R software. IAnalyse
 Biological Invasion Costs with the ‘InvaCost’ Database. Published on the
 Comprehensive R Archive Network. Current version: 1.0.
-<a href="https://cran.r-project.org/package=invacost" class="uri">https://cran.r-project.org/package=invacost</a>
-Open-source code repository available here:
-<a href="https://github.com/Farewe/invacost" class="uri">https://github.com/Farewe/invacost</a>
+<https://cran.r-project.org/package=invacost> Open-source code
+repository available here: <https://github.com/Farewe/invacost>
 
 **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software.
 Biogeographical networks in R. Current version : 0.1.2.
-<a href="https://github.com/Farewe/biogeonetworks" class="uri">https://github.com/Farewe/biogeonetworks</a>
+<https://github.com/Farewe/biogeonetworks>
 
 **Leroy B.** 2014-2019. **virtualspecies**, package for the R software.
 A package to generate virtual species distribution for improvements of
 modeling techniques. Published on the Comprehensive R Archive Network.
-Current version : 1.5.1.
-<a href="http://borisleroy.com/virtualspecies" class="uri">http://borisleroy.com/virtualspecies</a>
+Current version : 1.5.1. <http://borisleroy.com/virtualspecies>
 
 **Leroy B.** 2012-2019. **Rarity**, package for the R software. A
 package to calculate rarity indices for species and assemblages of
 species. Published on the Comprehensive R Archive Network. Current
-version : 1.3-6.
-<a href="https://cran.r-project.org/package=Rarity" class="uri">https://cran.r-project.org/package=Rarity</a>
+version : 1.3-6. <https://cran.r-project.org/package=Rarity>
 
-Expertise
----------
+## Expertise
 
 `2015-2018` **Lead Author**, *Intergovernmental Platform on Biodiversity
 & Ecosystem Services*, Europe and Central Asia Assessment
@@ -223,8 +215,7 @@ Nationale des Nouragues : Facteurs de variations des assemblages et
 premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues,
 Guyane Française, 23p
 
-Grants and funding
-------------------
+## Grants and funding
 
 ### Research funding
 
@@ -250,8 +241,7 @@ approach of Renewable Marine Energies: Modelling the role of offshore
 windfarms in modifying coastal trophic network functionning and
 cumulated impacts of other drivers of change.
 
-Teaching
---------
+## Teaching
 
 ### Main courses
 
@@ -272,7 +262,7 @@ Sorbonne Universités*, Paris, France.
 ### Short courses
 
 `2016` *Spring school, Aix-Marseille University*, Barcelonette, France.
-- - **Statistical course in R**
+<br/> - - **Statistical course in R**
 
 `2014-2018` *Master’s degree, Muséum National d’Histoire Naturelle,
 Sorbonne Universités* - - **Modelling and statistics**
@@ -291,8 +281,7 @@ tutorial](https://github.com/Farewe/biogeonetworks)
 `2014, 2019` **The virtualspecies R package: a complete tutorial**,
 [Online tutorial](http://borisleroy.com/virtualspecies_tutorial/)
 
-Supervision
------------
+## Supervision
 
 ### Postdoctoral researchers
 
@@ -416,8 +405,7 @@ Ecosystems, Muséum National d’Histoire Naturelle*, Dinard, France
 `2014–2017` **Nicolas Dubos**, *Centre d’Ecologie et des Sciences de la
 Conservation, Muséum National d’Histoire Naturelle*, Paris, France
 
-Professional service
---------------------
+## Professional service
 
 `2015-present` **Evaluation committee**, *Master programs, Muséum
 National d’Histoire Naturelle, Sorbonne Universités*, Paris, France
@@ -438,15 +426,13 @@ of Geographic Information Science*, *Journal of Applied Ecology*,
 
 `2019-present` **Associate Editor**. *Diversity & Distributions*
 
-Academic service
-----------------
+## Academic service
 
 `2017-2019` **Leader**, *group Biodiversity & Macroecology, Lab. Biology
 of Aquatic Organisms & Ecosystems, Muséum national d’Histoire
 Naturelle*, Paris, France.
 
-Outreach
---------
+## Outreach
 
 `2021` **Press** Various interviews on the themes of biological
 invasions, climate change and modelling (Science News, Polytechnique
@@ -472,4 +458,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: May 2021<br/><br/>
+<br/>Last updated: Aug 2021<br/><br/>

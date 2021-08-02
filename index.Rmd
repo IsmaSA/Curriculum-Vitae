@@ -197,7 +197,7 @@ TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling th
 ### Short courses
 
 `2016`
-*Spring school, Aix-Marseille University*, Barcelonette, France.
+*Spring school, Aix-Marseille University*, Barcelonette, France. <br/>
 - \- **Statistical course in R**
 
 `2014-2018`
