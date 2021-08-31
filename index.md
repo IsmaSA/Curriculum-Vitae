@@ -2,7 +2,7 @@
 title: "Boris Leroy's CV"
 output:
   md_document:
-    variant: markdown_github
+    variant: gfm
     preserve_yaml: true
   pdf_document: default
 layout: cv
@@ -21,7 +21,7 @@ Biology of Aquatic Organisms and Ecosystems<br/> 43 rue Cuvier, CP
 page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
 [GitHub: Farewe](https://github.com/farewe) - [ORCID:
 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - [RG:
-Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
+Boris\_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
 [@BLeroyEcology](https://twitter.com/BLeroyEcology)
 
 *My current research focuses on global biogeographical patterns of
@@ -70,7 +70,7 @@ Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).*
 
 ### Journal articles
 
-46 published peer-reviewed articles. h-index: 22; i10-index: 31
+47 published peer-reviewed articles. h-index: 23; i10-index: 38
 
 *Selected publications:*
 
@@ -432,7 +432,7 @@ Naturelle*, Paris, France.
 
 ## Outreach
 
-`2021` **Press** Various interviews on the themes of biological
+`2021` **Press** Multiple interviews on the themes of biological
 invasions, climate change and modelling (Science News, Polytechnique
 Insights, France TV info, Radio la 1ère//Planète Outre-Mer, Science &
 Vie)

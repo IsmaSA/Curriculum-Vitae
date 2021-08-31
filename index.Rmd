@@ -2,7 +2,7 @@
 title: "Boris Leroy's CV"
 output:
   md_document:
-    variant: markdown_github
+    variant: gfm
     preserve_yaml: true
   pdf_document: default
 layout: cv
@@ -74,7 +74,7 @@ gs <- get_profile(id)
 
 ### Journal articles
 
-46 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+47 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
 
 *Selected publications:*
 
@@ -377,7 +377,7 @@ Co-supervised with Céline Bellard
 ## Outreach
 
 `2021`
-**Press** Various interviews on the themes of biological invasions, climate change and modelling (Science News, Polytechnique Insights, France TV info, Radio la 1ère//Planète Outre-Mer, Science & Vie)
+**Press** Multiple interviews on the themes of biological invasions, climate change and modelling (Science News, Polytechnique Insights, France TV info, Radio la 1ère//Planète Outre-Mer, Science & Vie)
 
 `2018`
 **Press** *Fighting fake news about science* <br /> [Le rapport du Giec sur le climat «bourré d’erreurs»? Une intox aux arguments fragiles](https://www.20minutes.fr/planete/2352307-20181010-rapport-giec-climat-bourre-erreurs-intox-arguments-fragiles)

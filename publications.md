@@ -20,6 +20,8 @@ layout: cv
 
 `2021`
 
+47\. Haubrock PJ, Bernery C, Cuthbert R, Liu C, Kourantidou M, **Leroy B**, Turbelin, AJ, Kramer AM, Verbrugge LNH, Diagne C, Courchamp, Gozlan RE. 2021. Knowledge gaps in economic costs of invasive alien fish worldwide. *Science of the Total Environment* [10.1016/j.scitotenv.2021.149875](https://doi.org/10.1016/j.scitotenv.2021.149875)
+
 46\. Robuchon M, Pavoine S, Delli G, Faith DP, Mandrici A, Pellens R, Véron S, Dubois G, **Leroy B**. 2021. Revisiting species and areas of interest for conserving global mammalian phylogenetic diversity. *Nature Communications* 12:3694 [10.1038/s41467-021-23861-y](https://doi.org/10.1038/s41467-021-23861-y)
 
 45\. Bradshaw CJA, Hoskins AJ, Haubrock PJ, Cuthbert RN, Diagne C, **Leroy B**, Andrews L, Page B, Cassey P, Sheppard AW, Courchamp F. 2021. Detailed assessment of the reported economic costs of invasive species in Australia. In: Zenni RD, McDermott S, García-Berthou E, Essl F (Eds) The Economic costs of biological invasions in the world. *NeoBiota* 67: 511–550. [10.3897/neobiota.67.58834](https://doi.org/10.3897/neobiota.67.58834)
