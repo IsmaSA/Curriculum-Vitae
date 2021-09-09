@@ -61,8 +61,8 @@ Management, University of Rennes 1*, Rennes, France.
 
 ## Publications
 
-*Full Publication list available [in Google
-Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).*
+*Full Publication list available
+[here](https://farewe.github.io/markdown-cv/publications.html).*
 
 <!--
 ### Journal articles, in preparation
@@ -70,15 +70,16 @@ Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).*
 
 ### Journal articles
 
-47 published peer-reviewed articles. h-index: 23; i10-index: 38
+47 published peer-reviewed articles. h-index: 24; i10-index: 39
 
 *Selected publications:*
 
 `2021`
 
 Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles
-JM, Bradshaw CJA & Courchamp F. High and rising economic costs of
-biological invasions worldwide IN PRESS *Nature*
+JM, Bradshaw CJA & Courchamp F. 2021. High and rising economic costs of
+biological invasions worldwide *Nature* 592, pages 571–576
+[10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6)
 
 `2020`
 
@@ -219,9 +220,8 @@ réserve Naturelle de Saint Paul et Amsterdam*, Terres Australes et
 Antarctiques Françaises, \~20k€.
 
 `2020-2022` **2-year research project**, *Southern Indian Ocean
-Fisheries Agreement*, Indian Ocean, 96 000€. <br/> Co-PI with Alexis
-Martin. <br/> Mapping the biogeography of Vulnerable Marine Ecosystems
-in the Indian Ocean.
+Fisheries Agreement*, Indian Ocean, 96 000€. <br/> Mapping the
+biogeography of Vulnerable Marine Ecosystems in the Indian Ocean.
 
 `2017–2019` **2-year research project Labex**, *Muséum National
 d’Histoire Naturelle*, France, 100 000€. <br/> Co-PI with Sarah Samadi &
@@ -285,9 +285,8 @@ tutorial](https://github.com/Farewe/biogeonetworks)
 ### Postdoctoral researchers
 
 `2020-2022` **Berta Ramiro-Sanchez**, *BOREA, Muséum National d’Histoire
-Naturelle*, Paris, France. <br /> Co-supervised with Alexis Martin.
-Mapping the biogeography of Vulneralbe Marine Ecosystems in the Indian
-Ocean.
+Naturelle*, Paris, France. <br /> Mapping the biogeography of Vulnerable
+Marine Ecosystems in the Indian Ocean.
 
 `2018-2019` **Lissette Victorero**, *BOREA, Muséum National d’Histoire
 Naturelle*, Paris, France. <br /> Co-supervised with Sarah Samadi & Maud
@@ -456,4 +455,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Aug 2021<br/><br/>
+<br/>Last updated: Sep 2021<br/><br/>

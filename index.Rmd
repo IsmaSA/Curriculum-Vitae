@@ -65,7 +65,7 @@ gs <- get_profile(id)
 
 ## Publications
 
-*Full Publication list  available [in Google Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).* 
+*Full Publication list  available [here](https://farewe.github.io/markdown-cv/publications.html).* 
 
 
 <!--
@@ -80,7 +80,7 @@ gs <- get_profile(id)
 
 `2021`
 
-Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. High and rising economic costs of biological invasions worldwide IN PRESS *Nature*
+Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. 2021. High and rising economic costs of biological invasions worldwide *Nature* 592, pages 571–576 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6)
 
 `2020`
 
@@ -159,7 +159,6 @@ Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V. & Pétil
 
 `2020-2022`
 **2-year research project**, *Southern Indian Ocean Fisheries Agreement*, Indian Ocean, 96 000€. <br/> 
-Co-PI with Alexis Martin. <br/>
 Mapping the biogeography of Vulnerable Marine Ecosystems in the Indian Ocean.
 
 `2017–2019`
@@ -229,8 +228,7 @@ TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling th
 
 `2020-2022`
 **Berta Ramiro-Sanchez**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
-Co-supervised with Alexis Martin.
-Mapping the biogeography of Vulneralbe Marine Ecosystems in the Indian Ocean.
+Mapping the biogeography of Vulnerable Marine Ecosystems in the Indian Ocean.
 
 `2018-2019`
 **Lissette Victorero**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
