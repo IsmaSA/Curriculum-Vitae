@@ -11,14 +11,17 @@ layout: cv
 
 `Submitted`
 
-49\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Courchamp F. Managing biological invasions: the cost of inaction. *Preprint available* [10.21203/rs.3.rs-300416/v1](https://doi.org/10.21203/rs.3.rs-300416/v1)
+A few others as well ;)
 
-48\. Morel L, Jung V, **Leroy B**, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *Under consideration*
+51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Courchamp F. Managing biological invasions: the cost of inaction. *Preprint available* [10.21203/rs.3.rs-300416/v1](https://doi.org/10.21203/rs.3.rs-300416/v1)
 
-47\. **Leroy B**, Kramer AV, Vaissière AC, Courchamp F, Diagne C. Analysing global economic costs of invasive alien species with the invacost R package. *Preprint available* [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432 ) 
+50\. Morel L, Jung V, **Leroy B**, Villéger S, Clément B, Schnitzler A, Ysnel F. Changes in community assembly processes during succession increase biodiversity and affect plant community trajectories. *Under consideration*
 
+49\. **Leroy B**, Kramer AV, Vaissière AC, Courchamp F, Diagne C. Analysing global economic costs of invasive alien species with the invacost R package. *Preprint available* [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432 ) 
 
 `2021`
+
+48\. Doré M, Willmott K, **Leroy B**, Chazot N, Mallet J, Freitas AVL, Hall JPW, Lamas G, Dasmahapatra KK,  Fontaine C, Elias M. (2021). Anthropogenic pressures coincide with Neotropical biodiversity hotspots in a flagship butterfly group. *Diversity and Distributions* [10.1111/ddi.13455](https://doi.org/10.1111/ddi.13455) 
 
 47\. Haubrock PJ, Bernery C, Cuthbert R, Liu C, Kourantidou M, **Leroy B**, Turbelin, AJ, Kramer AM, Verbrugge LNH, Diagne C, Courchamp, Gozlan RE. 2021. Knowledge gaps in economic costs of invasive alien fish worldwide. *Science of the Total Environment* [10.1016/j.scitotenv.2021.149875](https://doi.org/10.1016/j.scitotenv.2021.149875)
 
