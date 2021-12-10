@@ -70,7 +70,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-47 published peer-reviewed articles. h-index: 24; i10-index: 39
+48 published peer-reviewed articles. h-index: 24; i10-index: 40
 
 *Selected publications:*
 
@@ -455,4 +455,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Sep 2021<br/><br/>
+<br/>Last updated: Dec 2021<br/><br/>
