@@ -25,8 +25,6 @@ A few others as well ;)
 
 49\. Haubrock PJ, Cuthbert RN, Hudgins EJ, Crystal-Ornelas R, Kourantidou M, Moodley D, Liu C, Turbelin AJ, **Leroy B**, Courchamp F. (2022). Geographic and taxonomic trends of rising biological invasion costs. *Science of The Total Environment* [10.1016/j.scitotenv.2022.152948](https://doi.org/10.1016/j.scitotenv.2022.152948)
 
-49\. **Leroy B**, Kramer AV, Vaissière AC, Courchamp F, Diagne C. Analysing global economic costs of invasive alien species with the invacost R package. *Preprint available* [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432 ) 
-
 `2021`
 
 48\. Doré M, Willmott K, **Leroy B**, Chazot N, Mallet J, Freitas AVL, Hall JPW, Lamas G, Dasmahapatra KK,  Fontaine C, Elias M. (2021). Anthropogenic pressures coincide with Neotropical biodiversity hotspots in a flagship butterfly group. *Diversity and Distributions* [10.1111/ddi.13455](https://doi.org/10.1111/ddi.13455) 
