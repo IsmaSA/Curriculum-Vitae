@@ -1,11 +1,11 @@
 ---
-title: "Boris Leroy's CV"
+layout: cv
 output:
   md_document:
-    variant: gfm
     preserve_yaml: true
+    variant: gfm
   pdf_document: default
-layout: cv
+title: Boris Leroy’s CV
 ---
 
 # Boris Leroy
@@ -15,13 +15,13 @@ Maitre de Conférences, Muséum National d’Histoire Naturelle
 Biology of Aquatic Organisms and Ecosystems<br/> 43 rue Cuvier, CP
 26<br/> 75005 Paris, France<br/>
 
-<leroy.boris@@gmail.com>
+leroy.boris@@gmail.com
 
 [borisleroy.com](https://borisleroy.com) - [lab
 page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
 [GitHub: Farewe](https://github.com/farewe) - [ORCID:
 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - [RG:
-Boris\_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
+Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
 [@BLeroyEcology](https://twitter.com/BLeroyEcology)
 
 *My current research focuses on global biogeographical patterns of
@@ -70,7 +70,7 @@ Scholar](https://scholar.google.fr/citations?user=7HzlVT4AAAAJ).*
 
 ### Journal articles
 
-48 published peer-reviewed articles. h-index: 24; i10-index: 40
+52 published peer-reviewed articles. h-index: 25; i10-index: 41
 
 *Selected publications:*
 
@@ -456,4 +456,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Dec 2021<br/><br/>
+<br/>Last updated: Mar 2022<br/><br/>
