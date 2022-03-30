@@ -182,6 +182,29 @@ version : 1.3-6. <https://cran.r-project.org/package=Rarity>
 
 ### Expertise reports
 
+`2022`
+
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on
+Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement
+consultancy report. 33 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Progress report - SIOFA
+bioregionalisation and VME mapping* Southern Indian Ocean Fisheries
+Agreement consultancy report. 24 pp.
+
+`2021` Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E &
+Courchamp F. 2021. Les coûts économiques des invasions biologiques en
+France. Synthèse à l’intention des décideurs. Rapport MNHN/Université
+Paris Saclay/ IUCN, Paris, France.
+
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine
+Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement
+consultancy report. 23 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA
+bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries
+Agreement consultancy report. 11 pp.
+
 `2019` Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P.,
 Champagnat J., Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M.,
 Hattab T., Le Loc’h F., **Leroy B.**, Lejart M., Niquil N., Nogues Q.,
@@ -197,7 +220,7 @@ Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.).
 Secretariat of the Intergovernmental Science-Policy Platform on
 Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
 
-**Koubbi P, Godet C, Robuchon M, Leroy B, Serandour B, Cotté C.** (2018)
+Koubbi P, Godet C, Robuchon M, **Leroy B**, Serandour B, Cotté C. (2018)
 H2020 MESOPP (« Mesopelagic Southern Ocean Prey and Predators ») MESOPP,
 Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
 Ocean

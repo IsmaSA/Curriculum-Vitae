@@ -163,14 +163,31 @@ Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, N
 
 ### Expertise reports
 
-`2019`
+`2022`
 
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 33 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Progress report - SIOFA bioregionalisation and VME mapping* Southern Indian Ocean Fisheries Agreement consultancy report. 24 pp.
+
+`2021`
+Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
+
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 23 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 11 pp.
+
+
+
+`2019`
 Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
 
 `2018`
-**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages. [10.5281/zenodo.3237428](https://doi.org/10.5281/zenodo.3237428)
+**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
 
-
+Koubbi P, Godet C, Robuchon M, **Leroy B**, Serandour B, Cotté C. (2018)
+H2020 MESOPP (« Mesopelagic Southern Ocean Prey and Predators ») MESOPP,
+Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
+Ocean
 
 `2015`
 Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
