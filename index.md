@@ -22,7 +22,7 @@ page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>
 [GitHub: Farewe](https://github.com/farewe) - [ORCID:
 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - [RG:
 Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
-\[@BLeroyEcology\](<https://twitter.com/BLeroyEcology>)
+[@BLeroyEcology](https://twitter.com/BLeroyEcology)
 
 *My current research focuses on global biogeographical patterns of
 aquatic biodiversity and their underlying direct and indirect drivers. I
@@ -70,7 +70,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-51 published peer-reviewed articles. h-index: 25; i10-index: 41
+51 published peer-reviewed articles. h-index: 24; i10-index: 40
 
 *Selected publications:*
 
@@ -182,21 +182,25 @@ version : 1.3-6. <https://cran.r-project.org/package=Rarity>
 
 ### Expertise reports
 
-`2019`
-
-Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat
-J., Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le
-Loc’h F., **Leroy B.**, Lejart M., Niquil N., Nogues Q., Pagot J.-P.,
-Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche
-écosystémique des aires d’implantation d’énergies marines renouvelables.
-Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*.
-France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
+`2019` Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P.,
+Champagnat J., Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M.,
+Hattab T., Le Loc’h F., **Leroy B.**, Lejart M., Niquil N., Nogues Q.,
+Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour
+une approche écosystémique des aires d’implantation d’énergies marines
+renouvelables. Cas d’étude du parc éolien offshore de
+Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019,
+60 pages. Edition : Juin 2019
 
 `2018` **IPBES** (2018), *The IPBES regional assessment report on
 biodiversity and ecosystem services for Europe and Central Asia.*
 Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.).
 Secretariat of the Intergovernmental Science-Policy Platform on
 Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
+
+**Koubbi P, Godet C, Robuchon M, Leroy B, Serandour B, Cotté C.** (2018)
+H2020 MESOPP (« Mesopelagic Southern Ocean Prey and Predators ») MESOPP,
+Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
+Ocean
 
 `2015` Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères
 aquatiques des mares de Basse-Normandie en vue de l’application d’un
@@ -214,6 +218,11 @@ Guyane Française, 23p
 ## Grants and funding
 
 ### Research funding
+
+`2021-2023` **1.5-year research project**, *Southern Indian Ocean
+Fisheries Agreement*, Indian Ocean, 60 000€. <br/> Defining priority
+areas for conservation of Vulnerable Marine Ecosystems in the Indian
+Ocean.
 
 `2021` **Expertise project**, *Planification de l’extension de la
 réserve Naturelle de Saint Paul et Amsterdam*, Terres Australes et
@@ -284,7 +293,7 @@ tutorial](https://github.com/Farewe/biogeonetworks)
 
 ### Postdoctoral researchers
 
-`2020-2022` **Berta Ramiro-Sanchez**, *BOREA, Muséum National d’Histoire
+`2020-2022` **Berta Ramiro-Sánchez**, *BOREA, Muséum National d’Histoire
 Naturelle*, Paris, France. <br /> Mapping the biogeography of Vulnerable
 Marine Ecosystems in the Indian Ocean.
 
@@ -360,6 +369,10 @@ France.<br/> Co-supervised with Morgane Barbet-Massin
 
 **Valentina Cima**, *Master 2, Muséum National d’Histoire Naturelle*,
 Paris, France. <br /> Co-supervised with Isabelle Witté
+
+**Ophélie Silvio**, *Master 1, Université Pierre & Marie Curie*, Paris,
+France. <br/> Co-supervised with Tristan Diméglio, Eric Feunteun &
+Marine Robuchon
 
 `2015` **Robin Delsol**, *Master 2, University of Rennes 1*, Rennes,
 France.<br/> Co-supervised with Céline Bellard
