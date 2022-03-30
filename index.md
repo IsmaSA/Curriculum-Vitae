@@ -22,7 +22,7 @@ page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>
 [GitHub: Farewe](https://github.com/farewe) - [ORCID:
 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - [RG:
 Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
-[@BLeroyEcology](https://twitter.com/BLeroyEcology)
+\[@BLeroyEcology\](<https://twitter.com/BLeroyEcology>)
 
 *My current research focuses on global biogeographical patterns of
 aquatic biodiversity and their underlying direct and indirect drivers. I
@@ -70,7 +70,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-52 published peer-reviewed articles. h-index: 25; i10-index: 41
+51 published peer-reviewed articles. h-index: 25; i10-index: 41
 
 *Selected publications:*
 

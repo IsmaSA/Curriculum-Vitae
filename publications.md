@@ -18,7 +18,7 @@ A few others as well ;)
 
 `2022`
 
-51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Beidas A, Courchamp F (2022). Managing biological invasions: the cost of inaction. *Biological Invasions* [10.21203/rs.3.rs-300416/v1](https://doi.org/10.21203/rs.3.rs-300416/v1)
+51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Beidas A, Courchamp F (2022). Managing biological invasions: the cost of inaction. *Biological Invasions* [10.1007/s10530-022-02755-0](https://doi.org/10.1007/s10530-022-02755-0)
 
 50\. Lanner J, Dubos N, Geslin B, **Leroy B**, Hernández-Castellano C, Dubaić JB, Bortolotti L, Calafat JD, Ćetković A, Flaminio S, Le Féon V, Margalef-Marrase J, Orr M, Pachinger B, Ruzzier E, Smagghe G, Tuerlings T, Vereecken N, Meimberg H (2022). On the road: Anthropogenic factors drive the invasion risk of a wild solitary bee species. *Science of The Total Environment* [10.1016/j.scitotenv.2022.154246](https://doi.org/10.1016/j.scitotenv.2022.154246)
 
