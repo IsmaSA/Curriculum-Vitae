@@ -352,10 +352,14 @@ Protected Areas.
 
 ### Master students
 
+`2022` **Cam Ly Rintz**, *Master 2, Université Paris-Saclay,
+AgroParisTech*, Paris, France.<br /> Co-supervised with Berta Ramiro
+Sanchez
+
 `2021`
 
 **Eléna Manfrini**, *Master 1, Université Paris-Saclay*, Orsay,
-France.<br /> Co-supervised with Franck Courchamp <br />
+France.<br /> Co-supervised with Franck Courchamp
 
 `2020`
 

@@ -170,12 +170,14 @@ Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on Consultancy 
 Ramiro-Sánchez B, **Leroy B**. 2021. *Progress report - SIOFA bioregionalisation and VME mapping* Southern Indian Ocean Fisheries Agreement consultancy report. 24 pp.
 
 `2021`
+
 Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
 
 Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 23 pp.
 
 Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 11 pp.
 
+Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C, Bourguignon P, Lozouet P, Le Gall L, Sergi S, Devilliers R, Martin A, Pagniez C, Guéné M, **Leroy B**. 2021. *Cartographie prédictive des biorégions benthiques autour des îles Saint-Paul et Amsterdam*. 28 pp.
 
 
 `2019`
