@@ -205,6 +205,11 @@ Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA
 bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries
 Agreement consultancy report. 11 pp.
 
+Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C,
+Bourguignon P, Lozouet P, Le Gall L, Sergi S, Devilliers R, Martin A,
+Pagniez C, Guéné M, **Leroy B**. 2021. *Cartographie prédictive des
+biorégions benthiques autour des îles Saint-Paul et Amsterdam*. 28 pp.
+
 `2019` Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P.,
 Champagnat J., Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M.,
 Hattab T., Le Loc’h F., **Leroy B.**, Lejart M., Niquil N., Nogues Q.,
@@ -495,4 +500,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Mar 2022<br/><br/>
+<br/>Last updated: Apr 2022<br/><br/>
