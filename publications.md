@@ -51,9 +51,9 @@ A few others as well ;)
 
 37\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. 2021. High and rising economic costs of biological invasions worldwide *Nature* 592, pages 571–576 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6)
 
-`2020`
+36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. 2021. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515)
 
-36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. 2020. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515)
+`2020`
 
 35\. Godet C, Robuchon M, **Leroy B**, Cotté C, Baudena A, Da Silva O, Fabri-Ruiz S, Lo Monaco C, Sergi S, Koubbi P. 2020. Matching zooplankton abundance and environment in the South Indian Ocean and Southern Ocean. *Deep Sea Research Part I: Oceanographic Research Papers* 163, 103347 [10.1016/j.dsr.2020.103347](https://doi.org/10.1016/j.dsr.2020.103347)
 
