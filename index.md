@@ -1,11 +1,11 @@
 ---
-title: "Boris Leroy's CV"
+layout: cv
 output:
   md_document:
-    variant: gfm
     preserve_yaml: true
+    variant: gfm
   pdf_document: default
-layout: cv
+title: Boris Leroy’s CV
 ---
 
 # Boris Leroy
@@ -15,13 +15,13 @@ Maitre de Conférences, Muséum National d’Histoire Naturelle
 Biology of Aquatic Organisms and Ecosystems<br/> 43 rue Cuvier, CP
 26<br/> 75005 Paris, France<br/>
 
-<leroy.boris@@gmail.com>
+leroy.boris@@gmail.com
 
 [borisleroy.com](https://borisleroy.com) - [lab
 page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
 [GitHub: Farewe](https://github.com/farewe) - [ORCID:
 0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - [RG:
-Boris\_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
+Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
 [@BLeroyEcology](https://twitter.com/BLeroyEcology)
 
 *My current research focuses on global biogeographical patterns of
@@ -70,9 +70,17 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-48 published peer-reviewed articles. h-index: 24; i10-index: 40
+52 published peer-reviewed articles. h-index: 24; i10-index: 42
 
 *Selected publications:*
+
+`2022`
+
+**Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne
+C (2022).Analysing global economic costs of invasive alien species with
+the invacost R package. *Methods in Ecology & Evolution* **Preprint
+available here**:
+[10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432)
 
 `2021`
 
@@ -182,21 +190,53 @@ version : 1.3-6. <https://cran.r-project.org/package=Rarity>
 
 ### Expertise reports
 
-`2019`
+`2022`
 
-Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat
-J., Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le
-Loc’h F., **Leroy B.**, Lejart M., Niquil N., Nogues Q., Pagot J.-P.,
-Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche
-écosystémique des aires d’implantation d’énergies marines renouvelables.
-Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*.
-France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on
+Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement
+consultancy report. 33 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Progress report - SIOFA
+bioregionalisation and VME mapping* Southern Indian Ocean Fisheries
+Agreement consultancy report. 24 pp.
+
+`2021` Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E &
+Courchamp F. 2021. Les coûts économiques des invasions biologiques en
+France. Synthèse à l’intention des décideurs. Rapport MNHN/Université
+Paris Saclay/ IUCN, Paris, France.
+
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine
+Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement
+consultancy report. 23 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA
+bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries
+Agreement consultancy report. 11 pp.
+
+Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C,
+Bourguignon P, Lozouet P, Le Gall L, Sergi S, Devilliers R, Martin A,
+Pagniez C, Guéné M, **Leroy B**. 2021. *Cartographie prédictive des
+biorégions benthiques autour des îles Saint-Paul et Amsterdam*. 28 pp.
+
+`2019` Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P.,
+Champagnat J., Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M.,
+Hattab T., Le Loc’h F., **Leroy B.**, Lejart M., Niquil N., Nogues Q.,
+Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour
+une approche écosystémique des aires d’implantation d’énergies marines
+renouvelables. Cas d’étude du parc éolien offshore de
+Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019,
+60 pages. Edition : Juin 2019
 
 `2018` **IPBES** (2018), *The IPBES regional assessment report on
 biodiversity and ecosystem services for Europe and Central Asia.*
 Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.).
 Secretariat of the Intergovernmental Science-Policy Platform on
 Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
+
+Koubbi P, Godet C, Robuchon M, **Leroy B**, Serandour B, Cotté C. (2018)
+H2020 MESOPP (« Mesopelagic Southern Ocean Prey and Predators ») MESOPP,
+Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
+Ocean
 
 `2015` Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères
 aquatiques des mares de Basse-Normandie en vue de l’application d’un
@@ -214,6 +254,11 @@ Guyane Française, 23p
 ## Grants and funding
 
 ### Research funding
+
+`2021-2023` **1.5-year research project**, *Southern Indian Ocean
+Fisheries Agreement*, Indian Ocean, 60 000€. <br/> Defining priority
+areas for conservation of Vulnerable Marine Ecosystems in the Indian
+Ocean.
 
 `2021` **Expertise project**, *Planification de l’extension de la
 réserve Naturelle de Saint Paul et Amsterdam*, Terres Australes et
@@ -266,8 +311,9 @@ Sorbonne Universités*, Paris, France.
 `2014-2018` *Master’s degree, Muséum National d’Histoire Naturelle,
 Sorbonne Universités* - - **Modelling and statistics**
 
-`2010-2013` *Bachelor’s degree, University of Rennes 1*, Rennes, France.
-- - **Aquatic Ecology** - - **Animal Biodiversity** - - **Statistics**
+`2010-2013` *Bachelor’s degree, University of Rennes 1*, Rennes,
+France. - - **Aquatic Ecology** - - **Animal Biodiversity** - -
+**Statistics**
 
 ### Online courses
 
@@ -284,7 +330,7 @@ tutorial](https://github.com/Farewe/biogeonetworks)
 
 ### Postdoctoral researchers
 
-`2020-2022` **Berta Ramiro-Sanchez**, *BOREA, Muséum National d’Histoire
+`2020-2022` **Berta Ramiro-Sánchez**, *BOREA, Muséum National d’Histoire
 Naturelle*, Paris, France. <br /> Mapping the biogeography of Vulnerable
 Marine Ecosystems in the Indian Ocean.
 
@@ -320,10 +366,14 @@ Protected Areas.
 
 ### Master students
 
+`2022` **Cam Ly Rintz**, *Master 2, Université Paris-Saclay,
+AgroParisTech*, Paris, France.<br /> Co-supervised with Berta Ramiro
+Sanchez
+
 `2021`
 
 **Eléna Manfrini**, *Master 1, Université Paris-Saclay*, Orsay,
-France.<br /> Co-supervised with Franck Courchamp <br />
+France.<br /> Co-supervised with Franck Courchamp
 
 `2020`
 
@@ -360,6 +410,10 @@ France.<br/> Co-supervised with Morgane Barbet-Massin
 
 **Valentina Cima**, *Master 2, Muséum National d’Histoire Naturelle*,
 Paris, France. <br /> Co-supervised with Isabelle Witté
+
+**Ophélie Silvio**, *Master 1, Université Pierre & Marie Curie*, Paris,
+France. <br/> Co-supervised with Tristan Diméglio, Eric Feunteun &
+Marine Robuchon
 
 `2015` **Robin Delsol**, *Master 2, University of Rennes 1*, Rennes,
 France.<br/> Co-supervised with Céline Bellard
@@ -455,4 +509,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Dec 2021<br/><br/>
+<br/>Last updated: Jun 2022<br/><br/>

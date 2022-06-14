@@ -11,7 +11,7 @@ layout: cv
 
 `Submitted`
 
-A few others as well ;)
+A few ones ;)
 
 `2022`
 
@@ -50,9 +50,9 @@ A few others as well ;)
 
 37\. Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Bradshaw CJA & Courchamp F. 2021. High and rising economic costs of biological invasions worldwide *Nature* 592, pages 571–576 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6)
 
-`2020`
+36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. 2021. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515)
 
-36\. Schickele A, Goberville E, **Leroy B**, Beaugrand G, Hattab T, Francour P & Raybaud V. 2020. European small pelagic fish distribution under global change scenarios. *Fish and Fisheries* 22:212-225 [10.1111/faf.12515](https://doi.org/10.1111/faf.12515)
+`2020`
 
 35\. Godet C, Robuchon M, **Leroy B**, Cotté C, Baudena A, Da Silva O, Fabri-Ruiz S, Lo Monaco C, Sergi S, Koubbi P. 2020. Matching zooplankton abundance and environment in the South Indian Ocean and Southern Ocean. *Deep Sea Research Part I: Oceanographic Research Papers* 163, 103347 [10.1016/j.dsr.2020.103347](https://doi.org/10.1016/j.dsr.2020.103347)
 
@@ -162,14 +162,33 @@ Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, N
 
 ### Expertise reports
 
-`2019`
+`2022`
 
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 33 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Progress report - SIOFA bioregionalisation and VME mapping* Southern Indian Ocean Fisheries Agreement consultancy report. 24 pp.
+
+`2021`
+
+Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
+
+Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 23 pp.
+
+Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 11 pp.
+
+Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C, Bourguignon P, Lozouet P, Le Gall L, Sergi S, Devilliers R, Martin A, Pagniez C, Guéné M, **Leroy B**. 2021. *Cartographie prédictive des biorégions benthiques autour des îles Saint-Paul et Amsterdam*. 28 pp.
+
+
+`2019`
 Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
 
 `2018`
-**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages. [10.5281/zenodo.3237428](https://doi.org/10.5281/zenodo.3237428)
+**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
 
-
+Koubbi P, Godet C, Robuchon M, **Leroy B**, Serandour B, Cotté C. (2018)
+H2020 MESOPP (« Mesopelagic Southern Ocean Prey and Predators ») MESOPP,
+Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
+Ocean
 
 `2015`
 Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
