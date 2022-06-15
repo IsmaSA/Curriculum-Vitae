@@ -76,6 +76,12 @@ Management, University of Rennes 1*, Rennes, France.
 
 `2022`
 
+Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I,
+Teletchea F, **Leroy B**. 2022. Freshwater fish invasions: A
+comprehensive review. *Annual Review of Ecology, Evolution and
+Systematics* **Preprint available here**:
+[hal-03564824](https://hal.archives-ouvertes.fr/hal-03564824)
+
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne
 C (2022).Analysing global economic costs of invasive alien species with
 the invacost R package. *Methods in Ecology & Evolution* **Preprint
@@ -138,20 +144,9 @@ changes, and protected areas: the contrasting case of spiders.
 
 `2013`
 
-Bellard C, Thuiller W, **Leroy B**, Genovesi P, Bakkenes M & Courchamp
-F. 2013. Will climate change promote future invasions? *Global Change
-Biology* 19:3740-3748
-[10.1111/gcb.12344](https://doi.org/10.1111/gcb.12344)
-
 **Leroy B**, Canard A & Ysnel F. 2013. Integrating multiple scales in
 rarity assessments of invertebrate taxa. Diversity and Distributions
 19:794-803 [10.1111/ddi.12040](https://doi.org/10.1111/ddi.12040)
-
-**Leroy B**, Paschetta M, Canard A, Bakkenes M, Isaia M & Ysnel F. 2013.
-First assessment of effects of environmental change on threatened
-spiders: potential impacts on Dolomedes plantarius (Clerck) and its
-conservation plans. Biological Conservation 161:155-163
-[10.1016/j.biocon.2013.03.022](https://doi.org/10.1016/j.biocon.2013.03.022)
 
 `2012`
 
@@ -373,7 +368,7 @@ Sanchez
 `2021`
 
 **Eléna Manfrini**, *Master 1, Université Paris-Saclay*, Orsay,
-France.<br /> Co-supervised with Franck Courchamp
+France.<br /> Co-supervised with Franck Courchamp & Christophe Diagne
 
 `2020`
 
