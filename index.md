@@ -1,11 +1,11 @@
 ---
-layout: cv
+title: "Boris Leroy's CV"
 output:
   md_document:
-    preserve_yaml: true
     variant: gfm
+    preserve_yaml: true
   pdf_document: default
-title: Boris Leroy’s CV
+layout: cv
 ---
 
 # Boris Leroy
@@ -70,7 +70,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-52 published peer-reviewed articles. h-index: 24; i10-index: 42
+53 published peer-reviewed articles. h-index: 25; i10-index: 45
 
 *Selected publications:*
 
@@ -83,10 +83,9 @@ Systematics* **Preprint available here**:
 [hal-03564824](https://hal.archives-ouvertes.fr/hal-03564824)
 
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne
-C (2022).Analysing global economic costs of invasive alien species with
-the invacost R package. *Methods in Ecology & Evolution* **Preprint
-available here**:
-[10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432)
+C. 2022. Analysing global economic costs of invasive alien species with
+the invacost R package. *Methods in Ecology & Evolution*
+[10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929)
 
 `2021`
 
@@ -157,7 +156,7 @@ multiple rarity cut-offs. *Insect Conservation and Diversity* 5:159-168
 
 ### Software
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2021. **invacost**,
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2022. **invacost**,
 package for the R software. Analyse Biological Invasion Costs with the
 ‘InvaCost’ Database. Published on the Comprehensive R Archive Network.
 Current version: 1.1-1. <https://cran.r-project.org/package=invacost>
@@ -504,4 +503,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Jun 2022<br/><br/>
+<br/>Last updated: Aug 2022<br/><br/>

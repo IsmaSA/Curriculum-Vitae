@@ -75,7 +75,7 @@ gs <- get_profile(id)
 ### Journal articles
 
 
-52 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+53 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
 
 *Selected publications:*
 
@@ -83,7 +83,7 @@ gs <- get_profile(id)
 
 Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I, Teletchea F, **Leroy B**.  2022. Freshwater fish invasions: A comprehensive review. *Annual Review of Ecology, Evolution and Systematics* **Preprint available here**: [hal-03564824](https://hal.archives-ouvertes.fr/hal-03564824)
 
-**Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C (2022).Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* **Preprint available here**: [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432) 
+**Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) 
 
 `2021`
 
@@ -125,7 +125,7 @@ Bellard C, Rysman J-F, **Leroy B**, Claud C & Mace GM. 2017. A global picture of
 
 ### Software
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2021. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2022. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
 
 **Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 

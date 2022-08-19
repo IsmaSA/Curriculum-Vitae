@@ -17,14 +17,13 @@ A few ones ;)
 
 53\. Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I, Teletchea F, **Leroy B**.  2022. Freshwater fish invasions: A comprehensive review. *Annual Review of Ecology, Evolution and Systematics* **Preprint available here**: [hal-03564824](https://hal.archives-ouvertes.fr/hal-03564824)
 
-52\. **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* **Preprint available here**: [10.1101/2020.12.10.419432](https://doi.org/10.1101/2020.12.10.419432) 
+52\. **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) 
 
 51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Beidas A, Courchamp F. 2022. Managing biological invasions: the cost of inaction. *Biological Invasions* [10.21203/rs.3.rs-300416/v1](https://doi.org/10.21203/rs.3.rs-300416/v1)
 
-
 50\. Lanner J, Dubos N, Geslin B, **Leroy B**, Hernández-Castellano C, Dubaić JB, Bortolotti L, Calafat JD, Ćetković A, Flaminio S, Le Féon V, Margalef-Marrase J, Orr M, Pachinger B, Ruzzier E, Smagghe G, Tuerlings T, Vereecken N, Meimberg H. 2022. On the road: Anthropogenic factors drive the invasion risk of a wild solitary bee species. *Science of The Total Environment* [10.1016/j.scitotenv.2022.154246](https://doi.org/10.1016/j.scitotenv.2022.154246)
 
-49\. Haubrock PJ, Cuthbert RN, Hudgins EJ, Crystal-Ornelas R, Kourantidou M, Moodley D, Liu C, Turbelin AJ, **Leroy B**, Courchamp F. 2022. Geographic and taxonomic trends of rising biological invasion costs. *Science of The Total Environment* [10.1016/j.scitotenv.2022.152948](https://doi.org/10.1016/j.scitotenv.2022.152948)
+49\. Haubrock PJ, Cuthbert RN, Hudgins EJ, Crystal-Ornelas R, Kourantidou M, Moodley D, Liu C, Turbelin AJ, **Leroy B**, Courchamp F. 2022. Geographic and taxonomic trends of rising biological invasion costs. *Science of The Total Environment* 817:152948 [10.1016/j.scitotenv.2022.152948](https://doi.org/10.1016/j.scitotenv.2022.152948)
 
 `2021`
 
