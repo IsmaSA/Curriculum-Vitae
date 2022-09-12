@@ -1,11 +1,11 @@
 ---
-title: "Boris Leroy's CV"
+layout: cv
 output:
   md_document:
-    variant: gfm
     preserve_yaml: true
+    variant: gfm
   pdf_document: default
-layout: cv
+title: Boris Leroy’s CV
 ---
 
 # Boris Leroy
@@ -70,7 +70,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-53 published peer-reviewed articles. h-index: 25; i10-index: 45
+54 published peer-reviewed articles. h-index: 26; i10-index: 45
 
 *Selected publications:*
 
@@ -503,4 +503,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Aug 2022<br/><br/>
+<br/>Last updated: Sep 2022<br/><br/>
