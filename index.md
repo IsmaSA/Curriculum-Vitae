@@ -186,6 +186,10 @@ version : 1.3-6. <https://cran.r-project.org/package=Rarity>
 
 `2022`
 
+Ramiro-Sánchez B, **Leroy B**. 2022. *Progress report - Significant
+Adverse Impacts* Southern Indian Ocean Fisheries Agreement consultancy
+report. 38 pp.
+
 Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on
 Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement
 consultancy report. 33 pp.
@@ -250,9 +254,8 @@ Guyane Française, 23p
 ### Research funding
 
 `2021-2023` **1.5-year research project**, *Southern Indian Ocean
-Fisheries Agreement*, Indian Ocean, 60 000€. <br/> Defining priority
-areas for conservation of Vulnerable Marine Ecosystems in the Indian
-Ocean.
+Fisheries Agreement*, Indian Ocean, 60 000€. <br/> Bioregionalisation
+and Management of Vulnerable Marine Ecosystems in the Indian Ocean.
 
 `2021` **Expertise project**, *Planification de l’extension de la
 réserve Naturelle de Saint Paul et Amsterdam*, Terres Australes et
