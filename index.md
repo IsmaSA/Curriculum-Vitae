@@ -1,11 +1,11 @@
 ---
-layout: cv
+title: "Boris Leroy's CV"
 output:
   md_document:
-    preserve_yaml: true
     variant: gfm
+    preserve_yaml: true
   pdf_document: default
-title: Boris Leroy’s CV
+layout: cv
 ---
 
 # Boris Leroy
@@ -70,7 +70,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-54 published peer-reviewed articles. h-index: 26; i10-index: 45
+54 published peer-reviewed articles. h-index: 27; i10-index: 45
 
 *Selected publications:*
 
