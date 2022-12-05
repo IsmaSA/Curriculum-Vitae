@@ -15,7 +15,7 @@ A few ones ;)
 
 `2022`
 
-54\. **Leroy B**. In Press. Choosing presence-only species distribution models. *Journal of Biogeography* []()  ---  [HAL]()
+54\. **Leroy B**. In Press. Choosing presence-only species distribution models. *Journal of Biogeography* [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
 53\. Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I, Teletchea F, **Leroy B**.  2022. Freshwater fish invasions: A comprehensive review. *Annual Review of Ecology, Evolution and Systematics*  [10.1146/annurev-ecolsys-032522-015551](https://doi.org/10.1146/annurev-ecolsys-032522-015551) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03781186)
 
