@@ -11,17 +11,17 @@ layout: cv
 
 `Submitted`
 
-A few ones ;)
+`2023`
+
+54\. **Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
 `2022`
 
-54\. **Leroy B**. In Press. Choosing presence-only species distribution models. *Journal of Biogeography* []()  ---  [HAL]()
-
 53\. Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I, Teletchea F, **Leroy B**.  2022. Freshwater fish invasions: A comprehensive review. *Annual Review of Ecology, Evolution and Systematics*  [10.1146/annurev-ecolsys-032522-015551](https://doi.org/10.1146/annurev-ecolsys-032522-015551) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03781186)
 
-52\. **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427555)
+52\. **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* 13:1930-1937 [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427555)
 
-51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Beidas A, Courchamp F. 2022. Managing biological invasions: the cost of inaction. *Biological Invasions* [10.21203/rs.3.rs-300416/v1](https://doi.org/10.21203/rs.3.rs-300416/v1) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427568)
+51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Beidas A, Courchamp F. 2022. Managing biological invasions: the cost of inaction. *Biological Invasions* 24:1927-1946 [10.1007/s10530-022-02755-0](https://doi.org/10.1007/s10530-022-02755-0) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427568)
 
 50\. Lanner J, Dubos N, Geslin B, **Leroy B**, Hernández-Castellano C, Dubaić JB, Bortolotti L, Calafat JD, Ćetković A, Flaminio S, Le Féon V, Margalef-Marrase J, Orr M, Pachinger B, Ruzzier E, Smagghe G, Tuerlings T, Vereecken N, Meimberg H. 2022. On the road: Anthropogenic factors drive the invasion risk of a wild solitary bee species. *Science of The Total Environment* [10.1016/j.scitotenv.2022.154246](https://doi.org/10.1016/j.scitotenv.2022.154246) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03615612)
 
