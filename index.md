@@ -70,109 +70,70 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-54 published peer-reviewed articles. h-index: 27; i10-index: 45
+55 published peer-reviewed articles. h-index: 31; i10-index: 49
 
 *Selected publications:*
 
-`2022`
+**Leroy B**. **Leroy B**. 2023. Choosing presence-only species
+distribution models. *Journal of Biogeography* 50:247-250
+[10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505) —
+[HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
 Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I,
 Teletchea F, **Leroy B**. 2022. Freshwater fish invasions: A
 comprehensive review. *Annual Review of Ecology, Evolution and
-Systematics* **Preprint available here**:
-[hal-03564824](https://hal.archives-ouvertes.fr/hal-03564824)
+Systematics*
+[10.1146/annurev-ecolsys-032522-015551](https://doi.org/10.1146/annurev-ecolsys-032522-015551)
+— [HAL](https://hal.archives-ouvertes.fr/hal-03781186)
 
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne
 C. 2022. Analysing global economic costs of invasive alien species with
-the invacost R package. *Methods in Ecology & Evolution*
-[10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929)
-
-`2021`
+the invacost R package. *Methods in Ecology & Evolution* 13:1930-1937
+[10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) —
+[HAL](https://hal.archives-ouvertes.fr/hal-03427555)
 
 Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles
 JM, Bradshaw CJA & Courchamp F. 2021. High and rising economic costs of
 biological invasions worldwide *Nature* 592, pages 571–576
 [10.1038/s41586-021-03405-6](https://doi.org/10.1038/s41586-021-03405-6)
 
-`2020`
-
-Schickele A, **Leroy B**, Beaugrand G, Goberville E, Hattab T, Francour
-P, Raybaud V. 2020. Modelling European small pelagic fish distribution:
-Methodological insights. *Ecological Modelling* 416:108902
-[10.1016/j.ecolmodel.2019.108902](https://doi.org/10.1016/j.ecolmodel.2019.108902)
-
-`2019`
-
 **Leroy B**, Dias MS, Giraud E, Hugueny B, Jézéquel C, Leprieur F,
 Oberdorff T, Tedesco PA. 2019. Global biogeographical regions of
 freshwater fish species. *Journal of Biogeography*, 46:2407-2419
 [10.1111/jbi.13674](https://doi.org/10.1111/jbi.13674)
 
-Meynard CN, Kaplan DM, **Leroy B**. Testing methods in species
-distribution modelling using virtual species: what have we learnt and
-what are we missing? *Ecography* *Special Issue: E4 award* 42:2021-2036
-[10.1111/ecog.04385](https://doi.org/10.1111/ecog.04385)
-
-`2018`
-
-**Leroy B**, Delsol R, Meynard CN, Hugueny B & Bellard C. 2018. Without
-quality presence-absence data, discrimination metrics such as TSS can be
-misleading measures of model performance. *Journal of Biogeography*,
-45:1994-2002 [10.1111/jbi.13402](https://doi.org/10.1111/jbi.13402)
-
-`2017`
-
-Bellard C, Rysman J-F, **Leroy B**, Claud C & Mace GM. 2017. A global
-picture of biological invasion threat on islands. *Nature Ecology &
-Evolution* 1:1862-1869
-[s41559-017-0365-6](https://doi.org/10.1038/s41559-017-0365-6)
-
-`2016`
-
 **Leroy B**, Meynard CN, Bellard C, Courchamp F. 2016. virtualspecies:
 an R package to generate virtual species distributions. *Ecography*
 39:599-607 [10.1111/ecog.01388](https://doi.org/10.1111/ecog.01388)
-
-`2014`
-
-**Leroy B**, Bellard C, Dubos N, Colliot A, Vasseur M, Courtial C,
-Bakkenes M, Canard A & Ysnel F. 2014. Forecasted climate and land use
-changes, and protected areas: the contrasting case of spiders.
-*Diversity and Distributions* 20:686-697
-[10.1111/ddi.12191](https://doi.org/10.1111/ddi.12191)
-
-`2013`
 
 **Leroy B**, Canard A & Ysnel F. 2013. Integrating multiple scales in
 rarity assessments of invertebrate taxa. Diversity and Distributions
 19:794-803 [10.1111/ddi.12040](https://doi.org/10.1111/ddi.12040)
 
-`2012`
-
-**Leroy B**, Pétillon J, Gallon R, Canard A & Ysnel F. 2012. Improving
-occurrence-based rarity metrics in conservation studies by including
-multiple rarity cut-offs. *Insect Conservation and Diversity* 5:159-168
-[10.1111/j.1752-4598.2011.00148.x](https://doi.org/10.1111/j.1752-4598.2011.00148.x)
-
 ### Software
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2022. **invacost**,
+Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of
+Bioregionalisation Methods. Current version: 1.0
+<https://cran.r-project.org/package=bioregion> Open-source code
+repository available here: <https://github.com/bioRgeo/bioregion>
+
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**,
 package for the R software. Analyse Biological Invasion Costs with the
 ‘InvaCost’ Database. Published on the Comprehensive R Archive Network.
 Current version: 1.1-1. <https://cran.r-project.org/package=invacost>
 Open-source code repository available here:
 <https://github.com/Farewe/invacost>
 
-**Leroy B.** 2019-2020. **biogeonetworks**, package for the R software.
+**Leroy B.** 2019-2023. **biogeonetworks**, package for the R software.
 Biogeographical networks in R. Current version : 0.1.2.
 <https://github.com/Farewe/biogeonetworks>
 
-**Leroy B.** 2014-2019. **virtualspecies**, package for the R software.
+**Leroy B.** 2014-2023. **virtualspecies**, package for the R software.
 A package to generate virtual species distribution for improvements of
 modeling techniques. Published on the Comprehensive R Archive Network.
 Current version : 1.5.1. <http://borisleroy.com/virtualspecies>
 
-**Leroy B.** 2012-2019. **Rarity**, package for the R software. A
+**Leroy B.** 2012-2023. **Rarity**, package for the R software. A
 package to calculate rarity indices for species and assemblages of
 species. Published on the Comprehensive R Archive Network. Current
 version : 1.3-6. <https://cran.r-project.org/package=Rarity>
@@ -289,16 +250,16 @@ cumulated impacts of other drivers of change.
 `2018-present` *Master’s degree, Muséum National d’Histoire Naturelle,
 Sorbonne Universités*, Paris, France.
 
--   \- **Biogeography and Macroecology**, with Maud Mouchet, master’s
-    degree course, 10 days.
+- \- **Biogeography and Macroecology**, with Maud Mouchet, master’s
+  degree course, 10 days.
 
 `2015-present` *Doctoral school, Muséum National d’Histoire Naturelle,
 Sorbonne Universités*, Paris, France.
 
--   \- **Species distribution models and climate change**, doctoral
-    training school, 5 days.
--   \- **Biogeography**, with Maud Mouchet, doctoral training school, 5
-    days.
+- \- **Species distribution models and climate change**, doctoral
+  training school, 5 days.
+- \- **Biogeography**, with Maud Mouchet, doctoral training school, 5
+  days.
 
 ### Short courses
 
@@ -327,7 +288,7 @@ tutorial](https://github.com/Farewe/biogeonetworks)
 
 ### Postdoctoral researchers
 
-`2020-2022` **Berta Ramiro-Sánchez**, *BOREA, Muséum National d’Histoire
+`2020-2023` **Berta Ramiro-Sánchez**, *BOREA, Muséum National d’Histoire
 Naturelle*, Paris, France. <br /> Mapping the biogeography of Vulnerable
 Marine Ecosystems in the Indian Ocean.
 
@@ -349,7 +310,11 @@ Beaugrand. <br /> Trophik project.
 
 ### Doctoral students
 
-`2019-present` **Camille Bernery**, *Ecology, Systematics, Evolution,
+`2022-2025` **Eléna Manfrini**, *Ecology, Systematics, Evolution,
+Université Paris-Saclay*, Orsay, France.<br/> Co-supervised with Franck
+Courchamp<br /> Risks of biological invasions from farmed arthropods.
+
+`2019-2022` **Camille Bernery**, *Ecology, Systematics, Evolution,
 Université Paris-Saclay*, Orsay, France.<br/> Co-supervised with Franck
 Courchamp & Céline Bellard <br /> Biological invasions of freshwater
 fishes.
@@ -427,7 +392,7 @@ France.<br/> Co-supervised with Céline Bellard
 de la Conservation, Muséum National d’Histoire Naturelle*, Concarneau,
 France
 
-`2019-present` **Zheng Han**, *Centre d’Ecologie et des Sciences de la
+`2019-2021` **Zheng Han**, *Centre d’Ecologie et des Sciences de la
 Conservation, Muséum National d’Histoire Naturelle*, Paris, France
 
 **Quentin Noguès**, *Biology of Aquatic Organism & Ecosystems,
@@ -506,4 +471,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Sep 2022<br/><br/>
+<br/>Last updated: Apr 2023<br/><br/>

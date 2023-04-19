@@ -157,13 +157,15 @@ Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, N
 
 ### Software
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2021. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
-  
-**Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
+Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version: 1.0  https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
 
-**Leroy B.** 2014-2019. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
 
-**Leroy B.** 2012-2019. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
+**Leroy B.** 2019-2023. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
+
+**Leroy B.** 2014-2023. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
+
+**Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
 
 ### Expertise reports
 

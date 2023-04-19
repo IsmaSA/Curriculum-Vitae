@@ -95,15 +95,15 @@ Diagne C, **Leroy B**, Vaissière AC, Gozlan RE, Roiz D, Jarić I, Salles JM, Br
 
 ### Software
 
-Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version : 1.0.0. https://cran.r-project.org/package=bioregion, https://bioRgeo.github.io/bioregion/.
+Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version: 1.0  https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2022. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
+**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
 
-**Leroy B.** 2019-2020. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
+**Leroy B.** 2019-2023. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 
-**Leroy B.** 2014-2019. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
+**Leroy B.** 2014-2023. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
 
-**Leroy B.** 2012-2019. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
+**Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
 
 
 ## Expertise
@@ -227,7 +227,7 @@ TROPHIK project: Ecosystemic approach of Renewable Marine Energies: Modelling th
 
 ### Postdoctoral researchers
 
-`2020-2022`
+`2020-2023`
 **Berta Ramiro-Sánchez**, *BOREA, Muséum National d'Histoire Naturelle*, Paris, France. <br />
 Mapping the biogeography of Vulnerable Marine Ecosystems in the Indian Ocean.
 
@@ -253,7 +253,12 @@ Trophik project.
 
 ### Doctoral students
 
-`2019-present`
+`2022-2025`
+**Eléna Manfrini**, *Ecology, Systematics, Evolution, Université Paris-Saclay*, Orsay, France.<br/>
+Co-supervised with Franck Courchamp<br />
+Risks of biological invasions from farmed arthropods.
+
+`2019-2022`
 **Camille Bernery**, *Ecology, Systematics, Evolution, Université Paris-Saclay*, Orsay, France.<br/>
 Co-supervised with Franck Courchamp & Céline Bellard <br />
 Biological invasions of freshwater fishes.
