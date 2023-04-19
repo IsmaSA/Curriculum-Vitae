@@ -13,6 +13,8 @@ layout: cv
 
 `2023`
 
+55\. Ramiro-Sánchez B, Martin A, **Leroy B**. In Press. The epitome of data paucity: deep-sea habitats of the Southern Indian Ocean. *Biological Conservation*
+
 54\. **Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
 `2022`
@@ -23,9 +25,9 @@ layout: cv
 
 51\. Ahmed DA, Hudgins EJ, Cuthbert RN, Kourantidou M, Diagne C, Haubrock PJ, Leung B, Liu C, **Leroy B**, Petrovskii S, Beidas A, Courchamp F. 2022. Managing biological invasions: the cost of inaction. *Biological Invasions* 24:1927-1946 [10.1007/s10530-022-02755-0](https://doi.org/10.1007/s10530-022-02755-0) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427568)
 
-50\. Lanner J, Dubos N, Geslin B, **Leroy B**, Hernández-Castellano C, Dubaić JB, Bortolotti L, Calafat JD, Ćetković A, Flaminio S, Le Féon V, Margalef-Marrase J, Orr M, Pachinger B, Ruzzier E, Smagghe G, Tuerlings T, Vereecken N, Meimberg H. 2022. On the road: Anthropogenic factors drive the invasion risk of a wild solitary bee species. *Science of The Total Environment* [10.1016/j.scitotenv.2022.154246](https://doi.org/10.1016/j.scitotenv.2022.154246) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03615612)
+50\. Lanner J, Dubos N, Geslin B, **Leroy B**, Hernández-Castellano C, Dubaić JB, Bortolotti L, Calafat JD, Ćetković A, Flaminio S, Le Féon V, Margalef-Marrase J, Orr M, Pachinger B, Ruzzier E, Smagghe G, Tuerlings T, Vereecken N, Meimberg H. 2022. On the road: Anthropogenic factors drive the invasion risk of a wild solitary bee species. *Science of The Total Environment* 827:154246 [10.1016/j.scitotenv.2022.154246](https://doi.org/10.1016/j.scitotenv.2022.154246) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03615612)
 
-49\. Haubrock PJ, Cuthbert RN, Hudgins EJ, Crystal-Ornelas R, Kourantidou M, Moodley D, Liu C, Turbelin AJ, **Leroy B**, Courchamp F. 2022. Geographic and taxonomic trends of rising biological invasion costs. *Science of The Total Environment* 817:152948 [10.1016/j.scitotenv.2022.152948](https://doi.org/10.1016/j.scitotenv.2022.152948) ---  [HAL]()
+49\. Haubrock PJ, Cuthbert RN, Hudgins EJ, Crystal-Ornelas R, Kourantidou M, Moodley D, Liu C, Turbelin AJ, **Leroy B**, Courchamp F. 2022. Geographic and taxonomic trends of rising biological invasion costs. *Science of The Total Environment* 817:152948 [10.1016/j.scitotenv.2022.152948](https://doi.org/10.1016/j.scitotenv.2022.152948) ---  [HAL](https://hal.science/hal-03860589)
 
 48\. Haubrock PJ, Bernery C, Cuthbert R, Liu C, Kourantidou M, **Leroy B**, Turbelin, AJ, Kramer AM, Verbrugge LNH, Diagne C, Courchamp, Gozlan RE. 2022. Knowledge gaps in economic costs of invasive alien fish worldwide. *Science of the Total Environment* 803:149875 [10.1016/j.scitotenv.2021.149875](https://doi.org/10.1016/j.scitotenv.2021.149875) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03333971)
 
