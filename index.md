@@ -70,7 +70,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-55 published peer-reviewed articles. h-index: 31; i10-index: 49
+56 published peer-reviewed articles. h-index: 31; i10-index: 49
 
 *Selected publications:*
 

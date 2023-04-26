@@ -13,6 +13,8 @@ layout: cv
 
 `2023`
 
+56\. Le Joncour A, Mouchet M, **Leroy B**, Doyle J, Lundy M, Robert M, Kopp D. In Press. When bioregionalisation emphasises the presence of Vulnerable Marine Ecosystem indicator species in Nephrops fishing grounds: evidence in the Bay of Biscay/Irish Sea continuum. *Progress in Oceanography*
+
 55\. Ramiro-Sánchez B, Martin A, **Leroy B**. In Press. The epitome of data paucity: deep-sea habitats of the Southern Indian Ocean. *Biological Conservation*
 
 54\. **Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
