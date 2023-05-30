@@ -75,7 +75,7 @@ gs <- get_profile(id)
 ### Journal articles
 
 
-56 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+58 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
 
 *Selected publications:*
 

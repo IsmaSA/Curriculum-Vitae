@@ -13,9 +13,13 @@ layout: cv
 
 `2023`
 
-56\. Le Joncour A, Mouchet M, **Leroy B**, Doyle J, Lundy M, Robert M, Kopp D. In Press. When bioregionalisation emphasises the presence of Vulnerable Marine Ecosystem indicator species in Nephrops fishing grounds: evidence in the Bay of Biscay/Irish Sea continuum. *Progress in Oceanography*
+58\. Victorero L, Samadi S, O'Hara T, Mouchet M, Delavenne J, Leprieur F, **Leroy B**. In Press. Global benthic biogeographical regions and macroecological drivers for ophiuroids. *Ecography* **Identifiers not yet available (paper in press)**
 
-55\. Ramiro-Sánchez B, Martin A, **Leroy B**. In Press. The epitome of data paucity: deep-sea habitats of the Southern Indian Ocean. *Biological Conservation*
+57\. Dubos N, Fieldsend TW, Roesch MA, Augros A, Besnard A, Choeur A, Ineich I, Krysko K, **Leroy B**, Malone SL, Probst J, Raxworthy CJ, Crottini A. 2023. Choice of climate data influences current and future global invasion risks for two Phelsuma geckos. *Biological Invasions* [10.1007/s10530-023-03082-8](https://doi.org/10.1007/s10530-023-03082-8) --- [HAL](https://hal.science/mnhn-04100733v1) 283:110096
+
+56\. Le Joncour A, Mouchet M, **Leroy B**, Doyle J, Lundy M, Robert M, Kopp D. 2023. When bioregionalisation emphasises the presence of Vulnerable Marine Ecosystem indicator species in Nephrops fishing grounds: evidence in the Bay of Biscay/Irish Sea continuum. *Progress in Oceanography* 214:103032 [10.1016/j.pocean.2023.103032](https://doi.org/10.1016/j.pocean.2023.103032) --- [HAL](https://hal.science/hal-04110043)
+
+55\. Ramiro-Sánchez B, Martin A, **Leroy B**. In Press. The epitome of data paucity: deep-sea habitats of the Southern Indian Ocean. *Biological Conservation* [10.1016/j.biocon.2023.110096](https://doi.org/10.1016/j.biocon.2023.110096) --- [HAL](https://hal.science/hal-04109995)
 
 54\. **Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
