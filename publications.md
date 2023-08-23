@@ -13,7 +13,9 @@ layout: cv
 
 `2023`
 
-58\. Victorero L, Samadi S, O'Hara T, Mouchet M, Delavenne J, Leprieur F, **Leroy B**. In Press. Global benthic biogeographical regions and macroecological drivers for ophiuroids. *Ecography* **Identifiers not yet available (paper in press)**
+59\.  Ahmed DA, Haubrock PJ, Cuthbert RN, Bang A, Soto I, Balzani P, Tarkan AS, Macêdo RL, Carneiro L, Bodey TW, Oficialdegui FJ, Courtois P, Kourantidou M, Angulo E, Heringer G, Renault D, Turbelin AJ, Hudgins EJ, Liu C, Gojery SA, Arbieu U, Diagne C, **Leroy B**, Briski E, Bradshaw CJA, Courchamp F. 2023. Recent advances in availability and synthesis of the economic costs of biological invasions. **BioScience** [10.1093/biosci/biad060](https://doi.org/10.1093/biosci/biad060) --- [HAL](https://hal.science/hal-04148456)
+
+58\. Victorero L, Samadi S, O'Hara T, Mouchet M, Delavenne J, Leprieur F, **Leroy B**. 2023. Global benthic biogeographical regions and macroecological drivers for ophiuroids. *Ecography* [10.1111/ecog.06627](https://doi.org/10.1111/ecog.06627) --- [HAL](https://hal.science/hal-04185815v1) 
 
 57\. Dubos N, Fieldsend TW, Roesch MA, Augros A, Besnard A, Choeur A, Ineich I, Krysko K, **Leroy B**, Malone SL, Probst J, Raxworthy CJ, Crottini A. 2023. Choice of climate data influences current and future global invasion risks for two Phelsuma geckos. *Biological Invasions* [10.1007/s10530-023-03082-8](https://doi.org/10.1007/s10530-023-03082-8) --- [HAL](https://hal.science/mnhn-04100733v1) 
 
@@ -159,59 +161,71 @@ layout: cv
 
 `2020`
 
-Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, Noguès Q, Grangeré K, Dauvin JC, Riera F, Mazé C, Le Loc'h F, Villanueva MC, Hattab T, Bourdaud P, Champagnat J, Ben Rais Lasram F. 2020 Toward an ecosystem approach of Marine Renewable Energy: the case of the offshore wind farm of Courseulles-sur-mer in the Bay of Seine. In: Nguyen K., Guillou S., Gourbesville P., Thiébot J. (eds) *Estuaries and Coastal Zones in Times of Global Change.* Springer Water. Springer, Singapore [10.1007/978-981-15-2081-5_9](https://doi.org/10.1007/978-981-15-2081-5_9) --- [HAL](https://hal.archives-ouvertes.fr/hal-03546761v1)
+1\. Niquil N, Raoux A, Haraldsson M, Araignous E, Halouani G, **Leroy B**, Safi G, Noguès Q, Grangeré K, Dauvin JC, Riera F, Mazé C, Le Loc'h F, Villanueva MC, Hattab T, Bourdaud P, Champagnat J, Ben Rais Lasram F. 2020 Toward an ecosystem approach of Marine Renewable Energy: the case of the offshore wind farm of Courseulles-sur-mer in the Bay of Seine. In: Nguyen K., Guillou S., Gourbesville P., Thiébot J. (eds) *Estuaries and Coastal Zones in Times of Global Change.* Springer Water. Springer, Singapore [10.1007/978-981-15-2081-5_9](https://doi.org/10.1007/978-981-15-2081-5_9) --- [HAL](https://hal.archives-ouvertes.fr/hal-03546761v1)
 
 ### Software
 
-Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version: 1.0  https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
+5\. Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionalisation Methods. Current version: 1.0  https://cran.r-project.org/package=bioregion Open-source code repository available here: https://github.com/bioRgeo/bioregion
 
-**Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-1. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
+4\. **Leroy B.**, Kramer A, Vaissière AC, Diagne C. 2020-2023. **invacost**, package for the R software. Analyse Biological Invasion Costs with the 'InvaCost' Database. Published on the Comprehensive R Archive Network.  Current version: 1.1-5. https://cran.r-project.org/package=invacost Open-source code repository available here: https://github.com/Farewe/invacost 
 
-**Leroy B.** 2019-2023. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
+3\. **Leroy B.** 2019-2023. **biogeonetworks**, package for the R software. Biogeographical networks in R. Current version : 0.1.2. https://github.com/Farewe/biogeonetworks
 
-**Leroy B.** 2014-2023. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
+2\. **Leroy B.** 2014-2023. **virtualspecies**, package for the R software. A package to generate virtual species distribution for improvements of modeling techniques. Published on the Comprehensive R Archive Network. Current version : 1.5.1. http://borisleroy.com/virtualspecies
 
-**Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-6.  https://cran.r-project.org/package=Rarity
+1\. **Leroy B.** 2012-2023. **Rarity**, package for the R software. A package to calculate rarity indices for species and assemblages of species. Published on the Comprehensive R Archive Network. Current version : 1.3-8.  https://cran.r-project.org/package=Rarity
 
 ### Expertise reports
 
+`2023`
+
+18\. Ramiro-Sanchez B., Woolley S. and **Leroy B**. (2023). Bioregionalization of the SIOFA area based on vulnerable marine ecosystem indicator taxa (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 30pp.
+
+17\. Ramiro-Sánchez B., Devillers R. and **Leroy B**. (2023). Systematic conservation planning in the SIOFA area (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 56pp.
+
+16\. Ramiro-Sánchez B. and **Leroy B**. (2023). Biodiversity models based on VME indicator taxa in the SIOFA area (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 25pp.
+
+15\. Ramiro-Sanchez B. and **Leroy B**. (2023). Identifying significant adverse impacts on vulnerable marine ecosystems: a review of measures and applicability to SIOFA (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 12pp. 
+
+14\. Ramiro-Sanchez B. and **Leroy B**. (2023). An assessment of significant adverse impacts from fishing activities in the SIOFA area (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 36pp.
+
 `2022`
 
-Ramiro-Sánchez B, **Leroy B**. 2022. *SIOFA bioregionalisation and VME project - Final report* Southern Indian Ocean Fisheries Agreement consultancy report. 111 pp. [link](https://siofa.org/sites/default/files/files/VMEMapping_FullReport.pdf)
+13\. Ramiro-Sánchez B, **Leroy B**. 2022. *SIOFA bioregionalisation and VME project - Final report* Southern Indian Ocean Fisheries Agreement consultancy report. 111 pp. [link](https://siofa.org/sites/default/files/files/VMEMapping_FullReport.pdf)
 
-Ramiro-Sánchez B, **Leroy B**. 2022. *Progress report - Significant Adverse Impacts* Southern Indian Ocean Fisheries Agreement consultancy report. 38 pp.
+12\. Ramiro-Sánchez B, **Leroy B**. 2022. *Progress report - Significant Adverse Impacts* Southern Indian Ocean Fisheries Agreement consultancy report. 38 pp.
 
-Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 33 pp.
+11\. Ramiro-Sánchez B, Martin A, **Leroy B**. 2022. *Progress report on Consultancy on VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 33 pp.
 
-Ramiro-Sánchez B, **Leroy B**. 2021. *Progress report - SIOFA bioregionalisation and VME mapping* Southern Indian Ocean Fisheries Agreement consultancy report. 24 pp.
+10\. Ramiro-Sánchez B, **Leroy B**. 2021. *Progress report - SIOFA bioregionalisation and VME mapping* Southern Indian Ocean Fisheries Agreement consultancy report. 24 pp.
 
 `2021`
 
-Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
+9\. Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les coûts économiques des invasions biologiques en France. Synthèse à l’intention des décideurs. Rapport MNHN/Université Paris Saclay/ IUCN, Paris, France.
 
-Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 23 pp.
+8\. Ramiro-Sánchez B, Martin A, **Leroy B**. 2021. *SIOFA Vulnerable Marine Ecosystem Mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 23 pp.
 
-Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 11 pp.
+7\. Ramiro-Sánchez B, **Leroy B**. 2021. *Inception report - SIOFA bioregionalisation and VME mapping.* Southern Indian Ocean Fisheries Agreement consultancy report. 11 pp.
 
-Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C, Bourguignon P, Lozouet P, Le Gall L, Sergi S, Devilliers R, Martin A, Pagniez C, Guéné M, **Leroy B**. 2021. *Cartographie prédictive des biorégions benthiques autour des îles Saint-Paul et Amsterdam*. 28 pp.
+6\. Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C, Bourguignon P, Lozouet P, Le Gall L, Sergi S, Devilliers R, Martin A, Pagniez C, Guéné M, **Leroy B**. 2021. *Cartographie prédictive des biorégions benthiques autour des îles Saint-Paul et Amsterdam*. 28 pp.
 
 
 `2019`
-Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
+5\. Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
 
 `2018`
-**IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
+4\. **IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
 
-Koubbi P, Godet C, Robuchon M, **Leroy B**, Serandour B, Cotté C. (2018)
+3\. Koubbi P, Godet C, Robuchon M, **Leroy B**, Serandour B, Cotté C. (2018)
 H2020 MESOPP (« Mesopelagic Southern Ocean Prey and Predators ») MESOPP,
 Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
 Ocean
 
 `2015`
-Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
+2\. Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
 
 `2014`
-Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V. & Pétillon J. 2014. *Les araignées de la Réserve Naturelle Nationale des Nouragues : Facteurs de variations des assemblages et premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues, Guyane Française, 23p
+1\. Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V. & Pétillon J. 2014. *Les araignées de la Réserve Naturelle Nationale des Nouragues : Facteurs de variations des assemblages et premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues, Guyane Française, 23p
 
 
 ### Dissemination of research

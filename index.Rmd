@@ -75,7 +75,7 @@ gs <- get_profile(id)
 ### Journal articles
 
 
-58 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+59 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
 
 *Selected publications:*
 
@@ -108,10 +108,28 @@ Lenormand M, **Leroy B**, Denelle P. 2023. bioregion: Comparison of Bioregionali
 
 ## Expertise
 
+**18** expertise reports published
+
+`2020-2023`
+**Contributing Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Invasive Alien Species Assessment
+
 `2015-2018`
 **Lead Author**, *Intergovernmental Platform on Biodiversity & Ecosystem Services*, Europe and Central Asia Assessment
 
+
 ### Selected expertise reports
+
+`2023`
+
+Ramiro-Sanchez B., Woolley S. and **Leroy B**. (2023). Bioregionalization of the SIOFA area based on vulnerable marine ecosystem indicator taxa (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 30pp.
+
+Ramiro-Sánchez B., Devillers R. and **Leroy B**. (2023). Systematic conservation planning in the SIOFA area (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 56pp.
+
+Ramiro-Sánchez B. and **Leroy B**. (2023). Biodiversity models based on VME indicator taxa in the SIOFA area (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 25pp.
+
+Ramiro-Sanchez B. and **Leroy B**. (2023). Identifying significant adverse impacts on vulnerable marine ecosystems: a review of measures and applicability to SIOFA (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 12pp. 
+
+Ramiro-Sanchez B. and **Leroy B**. (2023). An assessment of significant adverse impacts from fishing activities in the SIOFA area (Project PAE2021-01). Muséum National d’Histoire Naturelle, France. 36pp.
 
 `2022`
 
@@ -123,26 +141,18 @@ Manfrini E, **Leroy B**, Diagne C, Soubeyran Y, Sarat E & Courchamp F. 2021. Les
 
 Bourgouin A, Ramiro Sánchez B, Selles J, Favreau A, Péron C, Corbari C, Bourguignon P, Lozouet P, Le Gall L, Sergi S, Devilliers R, Martin A, Pagniez C, Guéné M, **Leroy B**. 2021. *Cartographie prédictive des biorégions benthiques autour des îles Saint-Paul et Amsterdam*. 28 pp.
 
-`2019`
-Araignous E., Beaugrand G., Ben Rais Lasram F., Bourdaud P., Champagnat J.,  Dauvin J.-C., Grangeré K., Halouani G., Haraldsson M., Hattab T., Le Loc’h F., **Leroy B.**,  Lejart M., Niquil N., Nogues Q., Pagot J.-P., Raoux A., Safi, G. et Villanueva C. *Recommandations pour une approche écosystémique des aires d’implantation d’énergies marines renouvelables. Cas d’étude du parc éolien offshore de Courseulles-sur-mer. Plouzané*. France Energies Marines Editions, 2019, 60 pages. Edition : Juin 2019
-
 `2018`
 **IPBES** (2018), *The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia.* Rounsevell, M., Fischer, M., Torre-Marin Rando, A. and Mader, A. (eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany. 892 pages.
-
-Koubbi P, Godet C, Robuchon M, **Leroy B**, Serandour B, Cotté C. (2018)
-H2020 MESOPP (« Mesopelagic Southern Ocean Prey and Predators ») MESOPP,
-Deliverable 4.6: Atlas of the main mesopelagic fish in the Southern
-Ocean
-
-`2015`
-Picard L. & **Leroy B.** 2015. *Inventaire des coléoptères aquatiques des mares de Basse-Normandie en vue de l’application d’un indice biologique. Rapport de synthèse 2011-2014.* Rapport GRETIA pour le Conseil régional de Basse-Normandie, les Conseils généraux du Calvados, de la Manche et de l’Orne, et l’Agence de l’eau Seine-Normandie. 103 pp. + annexes.
-
-`2014`
-Privet K., Canard A., Courtial C., Djoudi E.A., **Leroy B.**, Vedel, V. & Pétillon J. 2014. *Les araignées de la Réserve Naturelle Nationale des Nouragues : Facteurs de variations des assemblages et premier inventaire.* Rapport pour la Réserve Naturelle des Nouragues, Guyane Française, 23p
 
 ## Grants and funding
 
 ### Research funding
+
+`2023-2026` **3-year research project**, PPR Océan & Climat, Developing bioindicators for rocky foreshores: citizen sciences, a mechanism for interaction between science and society. Co-PI with Eric Feunteun & Florian Charvolin. 110 000€
+
+`2023-2025` **2-year research project**, *Agence Nationale pour la Recherche*,
+ESPOIRS - Etude de la réponse des estrans aux changements globaux par les Sciences
+Participatives : biOindication à l’InteRface sciences Société. 250 000€. 
 
 `2021-2023` **1.5-year research project**, *Southern Indian Ocean
 Fisheries Agreement*, Indian Ocean, 60 000€. <br/> Bioregionalisation and 
