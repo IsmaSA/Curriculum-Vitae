@@ -74,8 +74,8 @@ Management, University of Rennes 1*, Rennes, France.
 
 *Selected publications:*
 
-**Leroy B**. **Leroy B**. 2023. Choosing presence-only species
-distribution models. *Journal of Biogeography* 50:247-250
+**Leroy B**. 2023. Choosing presence-only species distribution models.
+*Journal of Biogeography* 50:247-250
 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505) —
 [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
