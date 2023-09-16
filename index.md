@@ -5,6 +5,7 @@ output:
     variant: gfm
     preserve_yaml: true
   pdf_document: default
+  word_document: default
 layout: cv
 ---
 
@@ -70,7 +71,7 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-59 published peer-reviewed articles. h-index: 33; i10-index: 50
+59 published peer-reviewed articles. h-index: 34; i10-index: 50
 
 *Selected publications:*
 
@@ -307,6 +308,12 @@ Beaugrand. <br /> Trophik project.
 
 ### Doctoral students
 
+`2023-2026` **Cam Ly Rintz**, *BOREA, Muséum National d’Histoire
+Naturelle*, Dinard, France.<br/> Co-supervised with Eric Feunteun &
+Florian Charvolin<br /> Developing bioindicators for rocky foreshores:
+citizen sciences, a mechanism for interaction between science and
+society.
+
 `2022-2025` **Eléna Manfrini**, *Ecology, Systematics, Evolution,
 Université Paris-Saclay*, Orsay, France.<br/> Co-supervised with Franck
 Courchamp<br /> Risks of biological invasions from farmed arthropods.
@@ -385,8 +392,11 @@ France.<br/> Co-supervised with Céline Bellard
 
 ### PhD committees
 
-`2020-present` **Fabien Verniest**, *Centre d’Ecologie et des Sciences
-de la Conservation, Muséum National d’Histoire Naturelle*, Concarneau,
+`2023-2026` **Rafaela Molina-Vargas**, *iEES-Paris, IRD, Sorbonne
+Université*, Paris, France
+
+`2020-2023` **Fabien Verniest**, *Centre d’Ecologie et des Sciences de
+la Conservation, Muséum National d’Histoire Naturelle*, Concarneau,
 France
 
 `2019-2021` **Zheng Han**, *Centre d’Ecologie et des Sciences de la
@@ -468,4 +478,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Aug 2023<br/><br/>
+<br/>Last updated: Sep 2023<br/><br/>
