@@ -5,6 +5,7 @@ output:
     variant: gfm
     preserve_yaml: true
   pdf_document: default
+  word_document: default
 layout: cv
 ---
 
@@ -305,6 +306,12 @@ Beaugrand. <br /> Trophik project.
 
 ### Doctoral students
 
+`2023-2026` **Cam Ly Rintz**, *BOREA, Muséum National d’Histoire
+Naturelle*, Dinard, France.<br/> Co-supervised with Eric Feunteun &
+Florian Charvolin<br /> Developing bioindicators for rocky foreshores:
+citizen sciences, a mechanism for interaction between science and
+society.
+
 `2022-2025` **Eléna Manfrini**, *Ecology, Systematics, Evolution,
 Université Paris-Saclay*, Orsay, France.<br/> Co-supervised with Franck
 Courchamp<br /> Risks of biological invasions from farmed arthropods.
@@ -383,8 +390,11 @@ France.<br/> Co-supervised with Céline Bellard
 
 ### PhD committees
 
-`2020-present` **Fabien Verniest**, *Centre d’Ecologie et des Sciences
-de la Conservation, Muséum National d’Histoire Naturelle*, Concarneau,
+`2023-2026` **Rafaela Molina-Vargas**, *iEES-Paris, IRD, Sorbonne
+Université*, Paris, France
+
+`2020-2023` **Fabien Verniest**, *Centre d’Ecologie et des Sciences de
+la Conservation, Muséum National d’Histoire Naturelle*, Concarneau,
 France
 
 `2019-2021` **Zheng Han**, *Centre d’Ecologie et des Sciences de la
