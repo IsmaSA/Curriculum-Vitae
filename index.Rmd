@@ -75,13 +75,13 @@ gs <- get_profile(id)
 ### Journal articles
 
 
-59 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
+60 published peer-reviewed articles. h-index: `r gs$h_index`; i10-index: `r gs$i10_index`
 
 *Selected publications:*
 
-**Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
+**Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F, Oberdorff T, Robuchon M, Tedesco PA. In Press. Major shifts in biogeographic regions of freshwater fishes as evidence of the Anthropocene epoch. *Science Advances*
 
-Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I, Teletchea F, **Leroy B**.  2022. Freshwater fish invasions: A comprehensive review. *Annual Review of Ecology, Evolution and Systematics*  [10.1146/annurev-ecolsys-032522-015551](https://doi.org/10.1146/annurev-ecolsys-032522-015551) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03781186)
+**Leroy B**. 2023. Choosing presence-only species distribution models. *Journal of Biogeography* 50:247-250 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505)  ---  [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
 
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne C. 2022. Analysing global economic costs of invasive alien species with the invacost R package. *Methods in Ecology & Evolution* 13:1930-1937 [10.1111/2041-210X.13929](https://doi.org/10.1111/2041-210X.13929) ---  [HAL](https://hal.archives-ouvertes.fr/hal-03427555)
 

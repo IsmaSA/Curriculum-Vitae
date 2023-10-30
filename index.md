@@ -70,21 +70,19 @@ Management, University of Rennes 1*, Rennes, France.
 
 ### Journal articles
 
-59 published peer-reviewed articles. h-index: 33; i10-index: 50
+60 published peer-reviewed articles. h-index: 34; i10-index: 50
 
 *Selected publications:*
+
+**Leroy B**, Bellard C, Dias MS, Hugueny B, Jézéquel C, Leprieur F,
+Oberdorff T, Robuchon M, Tedesco PA. In Press. Major shifts in
+biogeographic regions of freshwater fishes as evidence of the
+Anthropocene epoch. *Science Advances*
 
 **Leroy B**. 2023. Choosing presence-only species distribution models.
 *Journal of Biogeography* 50:247-250
 [10.1111/jbi.14505](https://doi.org/10.1111/jbi.14505) —
 [HAL](https://hal.archives-ouvertes.fr/hal-03813698)
-
-Bernery C, Bellard C, Courchamp F, Brosse S, Gozlan R, Jarić I,
-Teletchea F, **Leroy B**. 2022. Freshwater fish invasions: A
-comprehensive review. *Annual Review of Ecology, Evolution and
-Systematics*
-[10.1146/annurev-ecolsys-032522-015551](https://doi.org/10.1146/annurev-ecolsys-032522-015551)
-— [HAL](https://hal.archives-ouvertes.fr/hal-03781186)
 
 **Leroy B**, Kramer AV, Vaissière AC, Kourantidou M, Courchamp F, Diagne
 C. 2022. Analysing global economic costs of invasive alien species with
@@ -468,4 +466,4 @@ Paris, France <br /> (in French) [Des études pour tester des scénarios
 des conséquences du réchauffement sur la
 faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
 
-<br/>Last updated: Aug 2023<br/><br/>
+<br/>Last updated: Oct 2023<br/><br/>
