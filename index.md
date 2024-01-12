@@ -1,5 +1,5 @@
 ---
-title: "Boris Leroy's CV"
+title: "Ismael Soto's CV"
 output:
   md_document:
     variant: gfm
@@ -9,30 +9,22 @@ output:
 layout: cv
 ---
 
-# Boris Leroy
+# Ismael Soto
 
-Maitre de Conférences, Muséum National d’Histoire Naturelle
+University of South Bohemia in České Budějovice,
+Faculty of Fisheries and Protection of Waters,  
+Vodňany, Czech Republic 
 
-Biology of Aquatic Organisms and Ecosystems<br/> 43 rue Cuvier, CP
-26<br/> 75005 Paris, France<br/>
-
-leroy.boris@@gmail.com
+isma-sa@hotmail.com
 
 [borisleroy.com](https://borisleroy.com) - [lab
 page](https://borea.mnhn.fr/fr/users/boris-leroy) <br/>  
-[GitHub: Farewe](https://github.com/farewe) - [ORCID:
-0000-0002-7686-4302](https://orcid.org/0000-0002-7686-4302) - [RG:
-Boris_Leroy](https://www.researchgate.net/profile/Boris_Leroy) -
-[@BLeroyEcology](https://twitter.com/BLeroyEcology)
+[GitHub: IsmaSA](https://github.com/IsmaSA) - [ORCID:
+0000-0002-7686-4302](https://orcid.org/0000-0002-7288-6336) - [RG:
+Ismael Soto](https://www.researchgate.net/profile/Ismael-Soto-4) -
+[@ismasoto](https://twitter.com/ismasoto)
 
-*My current research focuses on global biogeographical patterns of
-aquatic biodiversity and their underlying direct and indirect drivers. I
-investigate with various macroecological and biogeographical methods how
-global changes alter the natural distribution of biodiversity. My main
-research topics are: biogeography, macroecology, invasion biology; with
-a special emphasis on the development of methods, such as species
-distribution modelling, and facilitating community access to these
-methods by publishing open-source software in R.*
+*I am a PhD candidate at the University of South Bohemia's Faculty of Fisheries and Water Protection, based in Ceske Budejovice (USB). My research primarily revolves around investigating the trends and impacts of invasive species. An integral part of my work involves leveraging the principles of data science, with a particular emphasis on data cleaning and various modeling approaches. I specialize in employing Generalized Linear Models (GLMs), Generalized Additive Models (GAMs), and meta-analytical methods to interpret complex data sets and generate insightful conclusions. This integrative and analytical approach allows for a comprehensive understanding of the patterns and effects of invasive species.*
 
 ## Education
 
