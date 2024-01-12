@@ -96,17 +96,10 @@ Ahmed, D. A., Haubrock, P. J., Cuthbert, R. N., Bang, A., **Soto, I.,** Balzani,
 - Gwendaline-Le Hen
 Summer school student during summer 2022 with the project *Long term trends and impacts in biological invasion*. Gwedaline won the 3rd place presentation of summer school in Vodnany (Czech Republic).
 
-- Mathiu Toutain
+- Mathieu Toutain
 Summer school student during summer 2023 with the project *Tracking long-term shifts in non-native freshwater macroinvertebrates across three European countries*. 
 
 
 
 
-
-
-**Outreach video for COP 21**, *Muséum national d’Histoire Naturelle*,
-Paris, France <br /> (in French) [Des études pour tester des scénarios
-des conséquences du réchauffement sur la
-faune](http://www.dailymotion.com/video/x3frvs3_des-etudes-pour-tester-des-scenariosdes-consequences-du-rechauffement-sur-la-faune_school)
-
-<br/>Last updated: Oct 2023<br/><br/>
+<br/>Last updated: Jan 2024<br/><br/>
