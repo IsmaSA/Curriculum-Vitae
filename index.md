@@ -99,7 +99,8 @@ Summer school student during summer 2022 with the project *Long term trends and 
 - Mathieu Toutain
 Summer school student during summer 2023 with the project *Tracking long-term shifts in non-native freshwater macroinvertebrates across three European countries*. 
 
-
+- Kateřina Marková
+Master thesis at the University of South Bohemia. Supervised by Prof. Antonín Kouba
 
 
 <br/>Last updated: Jan 2024<br/><br/>
