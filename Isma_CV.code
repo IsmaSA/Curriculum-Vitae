@@ -1,3 +1,15 @@
+install.packages("remotes")
+remotes::install_github("ropensci/openalexR")
+library(openalexR)
+library(dplyr)
+library(ggplot2)
+
+df <- oa_fetch(
+  entity = "works",
+  author.orcid = c("0000-0002-7288-6336"),
+  verbose = TRUE)
+
+
 format_name <- function(name) {
   name_parts <- strsplit(name, " ")[[1]]  # Split the name by spaces
   last_name <- name_parts[length(name_parts)]  # Extract the last name
