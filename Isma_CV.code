@@ -1,0 +1,91 @@
+format_name <- function(name) {
+  name_parts <- strsplit(name, " ")[[1]]  # Split the name by spaces
+  last_name <- name_parts[length(name_parts)]  # Extract the last name
+  first_initial <- substr(name_parts[1], 1, 1)  # Extract the first initial
+  
+  if (length(name_parts) > 2) {  # If there is a middle name
+    middle_initial <- substr(name_parts[2], 1, 1)  # Extract middle initial
+    return(paste0(last_name, ", ", first_initial, ".", middle_initial, "."))
+  } else {  # No middle name
+    return(paste0(last_name, ", ", first_initial, "."))
+  }
+}
+
+# Function to extract and format authors from a nested structure (i.e., from df$author)
+extract_authors <- function(nested_df) {
+  first_author <- c()
+  middle_author <- c()
+  senior_author <- c()
+  
+  # Loop through each author in the nested structure
+  for (i in 1:nrow(nested_df)) {
+    name <- nested_df$au_display_name[i]
+    position <- nested_df$author_position[i]
+    
+    # Append the formatted name to the correct author group
+    if (position == "first") {
+      first_author <- c(first_author, format_name(name))  # Append to vector
+    } else if (position == "middle") {
+      middle_author <- c(middle_author, format_name(name))  # Append to vector
+    } else if (position == "last" || position == "senior") {  # Check for last or senior
+      senior_author <- c(senior_author, format_name(name))  # Append to vector
+    }
+  }
+  
+  # Combine the authors for each group
+  first_author_combined <- paste(first_author, collapse = ", ")
+  middle_author_combined <- paste(middle_author, collapse = ", ")
+  senior_author_combined <- paste(senior_author, collapse = ", ")
+  
+  # Return the full citation string, combining authors and adding '&' where appropriate
+  if (length(senior_author_combined) > 0 && length(middle_author_combined) > 0) {
+    return(paste(first_author_combined, ", ", middle_author_combined, ", &", senior_author_combined))
+  } else if (length(senior_author_combined) > 0) {
+    return(paste(first_author_combined, " &", senior_author_combined))
+  } else {
+    return(first_author_combined)
+  }
+}
+
+# Example usage for a single row in the dataframe
+formatted_authors_row1 <- extract_authors(df$author[[1]])
+
+# Initialize an empty dataframe to store results
+j <- data.frame(citation_names = character(), stringsAsFactors = FALSE)
+
+# Loop through each row in the dataframe df
+for (s in 1:nrow(df)) {
+  data <- df$author[[s]]
+  formatted_authors_row <- extract_authors(data)
+  j[s, "citation_names"] <- formatted_authors_row
+}
+df$citation_names <- j$citation_names
+
+df$so[df$title == "Global economic costs of herpetofauna invasions"] <- "Scientific Report"
+df$so[df$title == "Sustained ecological impacts of invasive crayfish following claw injury"] <- "Inland Waters"
+df$so[df$title == "Taming the terminological tempest in invasion science"] <- "Biological reviews"
+df$so[df$title == "Economic impact disharmony in global biological invasions"] <- "The Science of The Total Environment"
+df$so[df$title == "Economic Costs of Non-Native Species in Türkiye: A First National Synthesis"] <- "Journal of Environmental Management"
+df$so[df$title == "Taming the terminological tempest in invasion science"] <- "Biological reviews"
+
+df$cite <- paste0(df$citation_names, " (", df$publication_year, "). ", df$title,". ", df$so, ". ", 
+                  df$volume,"(",df$issue,"), ", df$first_page, "-",df$last_page, " .DOI: ", df$doi)
+
+df<- df %>% arrange(+publication_year)
+df <- df[!duplicated(df$title),]
+df$cite <- gsub("NA-NA", "", df$cite)
+df$cite <- gsub("NA(NA)", "", df$cite)
+
+df <- df %>% filter(!title=="Knowledge needs in economic costs of invasive species facilitated by canalization")
+df <- df %>% filter(!title=="The faunal Ponto-Caspianization of European waterways")
+df <- df %>% filter(!title=="Assessing non-native invasive Orthoptera in Europe")
+df <- df %>% filter(!title=="Long term trends do not indicate a recovery of salmonids despite signs of natural reproduction")
+df <- df %>% filter(!title=="Shedding light on conservation strategies for the invasive species Potamopyrgus antipodarum under changing climate")
+df <- df %>% filter(!title=="Burgeoning non-native species production hinders sustainable aquaculture")
+df <- df %>% filter(!title=="Century-Long Shifts in the Freshwater Fish Communities of Two Catchments in a Biodiversity Hotspot")
+df <- df %>% filter(!title=="Economic Impact Disharmony in Global Biological Invasions")
+df <- df %>% filter(!title=='Author response for "Simulating capture efficiency of pitfall traps based on sampling strategy and the movement of ground‐dwelling arthropods"')
+
+
+
+write_xlsx(df, "Cv.xlsx")
