@@ -63,11 +63,14 @@ makeCV <- function(df, orcid=orcid){
  df1 <- df %>% left_join(j, by ="title")
   
  # Some names does not match 
+ df1$number <- trimws(df1$number)
  
- cv <- paste0()
-  
-  }
+ df1$cv <- paste0(df1$citation_names, " (",df1$year, "). ", df1$title, ". ", df1$journal,", ",df1$number) 
+ df1$cv <- gsub("\\.\\s*,", ".,", df1$cv)  
+ df1$cv <- gsub("\\s+", " ", df1$cv)
+ df1$cv <- trimws(df1$cv)
 
+  }
 
 
 format_name <- function(name) {
